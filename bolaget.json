@@ -1,0 +1,5084 @@
+[
+  {
+    "article_nr": 77032,
+    "year": 2009,
+    "name": "A Bergère Prestige Brut",
+    "price_per_liter": 728,
+    "price": 546
+  },
+  {
+    "article_nr": 77657,
+    "year": "NV",
+    "name": "A Viot Brut Tradition",
+    "price_per_liter": 305.33,
+    "price": 229
+  },
+  {
+    "article_nr": 77875,
+    "year": 2012,
+    "name": "A. Margaine Special Club",
+    "price_per_liter": 772,
+    "price": 579
+  },
+  {
+    "article_nr": 77323,
+    "year": "NV",
+    "name": "A. Margaine Le Brut",
+    "price_per_liter": 478.67,
+    "price": 359
+  },
+  {
+    "article_nr": 77530,
+    "year": "NV",
+    "name": "Abbatiale Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 78467,
+    "year": 2010,
+    "name": "Alain Bernard Cuvée Pierre Robert Grand Cru Blanc de Noirs",
+    "price_per_liter": 766.67,
+    "price": 575
+  },
+  {
+    "article_nr": 77439,
+    "year": "NV",
+    "name": "Alain Bernard Blanc de Blancs Premier Cru",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 77316,
+    "year": "NV",
+    "name": "Alain Bernard Tradition Premier Cru Brut",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 7471,
+    "year": "NV",
+    "name": "Alexandre Bonnet Perle Rosé Brut",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 7555,
+    "year": "NV",
+    "name": "Alexandre Bonnet Grande Réserve Brut",
+    "price_per_liter": 400,
+    "price": 300
+  },
+  {
+    "article_nr": 7555,
+    "year": "NV",
+    "name": "Alexandre Bonnet Grande Réserve Brut",
+    "price_per_liter": 466,
+    "price": 699
+  },
+  {
+    "article_nr": 78332,
+    "year": "NV",
+    "name": "Alfred Gratien Rosé Brut",
+    "price_per_liter": 526.67,
+    "price": 395
+  },
+  {
+    "article_nr": 79752,
+    "year": "NV",
+    "name": "Alfred Gratien Brut Classique",
+    "price_per_liter": 526.67,
+    "price": 395
+  },
+  {
+    "article_nr": 78616,
+    "year": 2013,
+    "name": "Alfred Gratien Cuvée Paradis Brut",
+    "price_per_liter": 918.67,
+    "price": 689
+  },
+  {
+    "article_nr": 77345,
+    "year": "NV",
+    "name": "Alice Bardot Cuvée Grande Réserve Brut",
+    "price_per_liter": 332.67,
+    "price": 499
+  },
+  {
+    "article_nr": 75382,
+    "year": "NV",
+    "name": "Alice Bardot Cuvée Belle Noire Brut",
+    "price_per_liter": 278.67,
+    "price": 209
+  },
+  {
+    "article_nr": 77792,
+    "year": "NV",
+    "name": "Alice Bardot Premier Cru",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 82267,
+    "year": "NV",
+    "name": "Amazone de Palmer Brut",
+    "price_per_liter": 1298.67,
+    "price": 974
+  },
+  {
+    "article_nr": 77112,
+    "year": "NV",
+    "name": "André Bergere Tentation Brut",
+    "price_per_liter": 754.67,
+    "price": 566
+  },
+  {
+    "article_nr": 77068,
+    "year": "NV",
+    "name": "André Bergere Rosé Brut",
+    "price_per_liter": 622.67,
+    "price": 467
+  },
+  {
+    "article_nr": 77609,
+    "year": "NV",
+    "name": "André Bergére Flowers Selectíon Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 75834,
+    "year": "NV",
+    "name": "André Bergére Brut Sélection",
+    "price_per_liter": 569.33,
+    "price": 427
+  },
+  {
+    "article_nr": 75347,
+    "year": "NV",
+    "name": "André Bergére Blanc de Blancs Brut Naturel",
+    "price_per_liter": 622.67,
+    "price": 467
+  },
+  {
+    "article_nr": 77987,
+    "year": "NV",
+    "name": "André Bergère Les Clos Meunier Extra Brut",
+    "price_per_liter": 728,
+    "price": 546
+  },
+  {
+    "article_nr": 77402,
+    "year": "NV",
+    "name": "André Bergere Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 7686,
+    "year": "NV",
+    "name": "André Clouet Grande Réserve",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77468,
+    "year": 2004,
+    "name": "André Clouet Dream Vintage Grand Cru",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 77890,
+    "year": 2012,
+    "name": "André Clouet Dream Vintage",
+    "price_per_liter": 526.67,
+    "price": 395
+  },
+  {
+    "article_nr": 7686,
+    "year": "NV",
+    "name": "André Clouet Grande Réserve",
+    "price_per_liter": 432.67,
+    "price": 649
+  },
+  {
+    "article_nr": 74145,
+    "year": "NV",
+    "name": "André Clouet Cuvée 1911",
+    "price_per_liter": 825.33,
+    "price": 619
+  },
+  {
+    "article_nr": 7546,
+    "year": "NV",
+    "name": "André Clouet Silver Brut Nature",
+    "price_per_liter": 478.67,
+    "price": 359
+  },
+  {
+    "article_nr": 77253,
+    "year": "NV",
+    "name": "André Clouet Brut Rosé",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 77348,
+    "year": "NV",
+    "name": "André Jacquart Vertus Experiance Extra Brut  Premier Cru Blanc de Blancs",
+    "price_per_liter": 492,
+    "price": 369
+  },
+  {
+    "article_nr": 77841,
+    "year": "NV",
+    "name": "André Legrand Brut",
+    "price_per_liter": 278.67,
+    "price": 209
+  },
+  {
+    "article_nr": 77265,
+    "year": "NV",
+    "name": "André Moussy Blanc de Blancs",
+    "price_per_liter": 464,
+    "price": 348
+  },
+  {
+    "article_nr": 77921,
+    "year": "NV",
+    "name": "André Robert Pauline Brut",
+    "price_per_liter": 448,
+    "price": 336
+  },
+  {
+    "article_nr": 77574,
+    "year": "NV",
+    "name": "André Roger Extra Brut Nature",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 73613,
+    "year": "NV",
+    "name": "André Roger Vieilles Vignes Brut Rosé",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 71796,
+    "year": "NV",
+    "name": "André Roger Vieilles Vignes Grand Cru Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 72033,
+    "year": 2014,
+    "name": "André Thomas Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77109,
+    "year": "NV",
+    "name": "AR Lenoble Grand Cru Chouilly Blanc de Blancs Brut",
+    "price_per_liter": 558.67,
+    "price": 419
+  },
+  {
+    "article_nr": 77256,
+    "year": "NV",
+    "name": "AR Lenoble Cuvée Intense Brut",
+    "price_per_liter": 483.33,
+    "price": 725
+  },
+  {
+    "article_nr": 70871,
+    "year": "NV",
+    "name": "AR Lenoble Zero Dosage",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 77256,
+    "year": "NV",
+    "name": "AR Lenoble Cuvée Intense Brut",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 79546,
+    "year": 2012,
+    "name": "AR Lenoble Grand Cru Chouilly Blanc de Blanc Brut",
+    "price_per_liter": 865.33,
+    "price": 649
+  },
+  {
+    "article_nr": 77931,
+    "year": "NV",
+    "name": "Armand de Brignac Brut Gold",
+    "price_per_liter": 3660,
+    "price": 5490
+  },
+  {
+    "article_nr": 77931,
+    "year": "NV",
+    "name": "Armand de Brignac Brut Gold",
+    "price_per_liter": 3320,
+    "price": 2490
+  },
+  {
+    "article_nr": 77932,
+    "year": "NV",
+    "name": "Armand de Brignac Brut Rosé",
+    "price_per_liter": 4653.33,
+    "price": 3490
+  },
+  {
+    "article_nr": 77932,
+    "year": "NV",
+    "name": "Armand de Brignac Brut Rosé",
+    "price_per_liter": 4860,
+    "price": 7290
+  },
+  {
+    "article_nr": 76781,
+    "year": "NV",
+    "name": "Ayala Brut Majeur",
+    "price_per_liter": 606,
+    "price": 909
+  },
+  {
+    "article_nr": 81985,
+    "year": "NV",
+    "name": "Ayala Rosé",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 81438,
+    "year": "NV",
+    "name": "Ayala Brut Nature",
+    "price_per_liter": 638.67,
+    "price": 479
+  },
+  {
+    "article_nr": 97010,
+    "year": 2013,
+    "name": "Ayala Blanc de Blancs",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 89419,
+    "year": "NV",
+    "name": "Ayala Brut Majeur",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 77418,
+    "year": 2012,
+    "name": "B de Boërl & Kroff Cuvée Sélectionnée Brut",
+    "price_per_liter": 4136,
+    "price": 3102
+  },
+  {
+    "article_nr": 76764,
+    "year": "NV",
+    "name": "Beaumont des Crayères Grand Rosé",
+    "price_per_liter": 412,
+    "price": 309
+  },
+  {
+    "article_nr": 76947,
+    "year": 2006,
+    "name": "Beaumont des Crayères Nostalgie Brut",
+    "price_per_liter": 1265.33,
+    "price": 949
+  },
+  {
+    "article_nr": 7891,
+    "year": "NV",
+    "name": "Beaumont des Crayères Grande Réserve Brut",
+    "price_per_liter": 318.67,
+    "price": 239
+  },
+  {
+    "article_nr": 72474,
+    "year": 2009,
+    "name": "Beaumont des Crayères Fleur de Prestige Brut",
+    "price_per_liter": 513.33,
+    "price": 385
+  },
+  {
+    "article_nr": 77447,
+    "year": 2010,
+    "name": "Belle Âme Premier Cru Brut",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 77704,
+    "year": "NV",
+    "name": "Benoit Beaufort Grand Cru Rosé Brut",
+    "price_per_liter": 512,
+    "price": 384
+  },
+  {
+    "article_nr": 73032,
+    "year": 2012,
+    "name": "Benoit Beaufort Ambonnay Prestige Grand Cru Brut",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 70354,
+    "year": 2008,
+    "name": "Benoit Beaufort Prestige Grand Cru Brut",
+    "price_per_liter": 596,
+    "price": 447
+  },
+  {
+    "article_nr": 78684,
+    "year": "NV",
+    "name": "Benoit Beaufort Blanc de Blancs Grand Cru Brut",
+    "price_per_liter": 462.67,
+    "price": 347
+  },
+  {
+    "article_nr": 70474,
+    "year": 2011,
+    "name": "Benoit Beaufort Prestige Grand Cru Brut",
+    "price_per_liter": 630.67,
+    "price": 946
+  },
+  {
+    "article_nr": 77961,
+    "year": 1996,
+    "name": "Benoit Munier Blanc de Blancs Grand Cru Brut",
+    "price_per_liter": 1590.67,
+    "price": 1193
+  },
+  {
+    "article_nr": 76498,
+    "year": 2008,
+    "name": "Benoit Munier Millésime Grand Cru Brut",
+    "price_per_liter": 861.33,
+    "price": 646
+  },
+  {
+    "article_nr": 78537,
+    "year": "NV",
+    "name": "Benoit Munier Blanc de Blancs Grand Gru Brut Nature",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 77322,
+    "year": 2012,
+    "name": "Bergeronneau-Marion Premier Cru Brut",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 77278,
+    "year": "NV",
+    "name": "Bergeronneau-Marion Rosé de Saignée Premier Cru Brut",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 77679,
+    "year": "NV",
+    "name": "Bergeronneau-Marion Grande Réserve Premier Cru Brut",
+    "price_per_liter": 432.67,
+    "price": 649
+  },
+  {
+    "article_nr": 77326,
+    "year": "NV",
+    "name": "Bergeronneau-Marion Blanc de Blancs Élevé En Fûts De Chêne Brut",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 76754,
+    "year": "NV",
+    "name": "Bergeronneau-Marion Grande Réserve Premier Cru",
+    "price_per_liter": 396,
+    "price": 297
+  },
+  {
+    "article_nr": 74493,
+    "year": "NV",
+    "name": "Bernard Pertois Tradition Brut Grand Cru",
+    "price_per_liter": 396,
+    "price": 297
+  },
+  {
+    "article_nr": 79921,
+    "year": "NV",
+    "name": "Bernard Robert Réserve",
+    "price_per_liter": 290.67,
+    "price": 218
+  },
+  {
+    "article_nr": 70713,
+    "year": "NV",
+    "name": "Bernard Tornay Grand Cru",
+    "price_per_liter": 492,
+    "price": 369
+  },
+  {
+    "article_nr": 70102,
+    "year": "NV",
+    "name": "Bernard Tornay Blanc de Noirs Grand Cru",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 71379,
+    "year": 2008,
+    "name": "Bernard Tornay Millesime Grand Cru",
+    "price_per_liter": 638.67,
+    "price": 479
+  },
+  {
+    "article_nr": 73149,
+    "year": "NV",
+    "name": "Bernard Tornay La Vielle Réserve",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 73560,
+    "year": "NV",
+    "name": "Bernard Tornay Palais des Dames Grand Cru",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 71110,
+    "year": "NV",
+    "name": "Bernard Tornay Rosé",
+    "price_per_liter": 492,
+    "price": 369
+  },
+  {
+    "article_nr": 72968,
+    "year": 2013,
+    "name": "Bertrand-Delespierre Origines Croisées Millésime Premier Cru Extra Brut",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 72374,
+    "year": 2013,
+    "name": "Bertrand-Delespierre L'Âme de Millésime Premier Cru Extra Brut",
+    "price_per_liter": 526.67,
+    "price": 395
+  },
+  {
+    "article_nr": 73320,
+    "year": "NV",
+    "name": "Bertrand-Delespierre Enfant de la Montagne Premier Cru Extra Brut",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 71174,
+    "year": 2012,
+    "name": "Beurton-Vincent Cuvée Brut Millésimé",
+    "price_per_liter": 537.33,
+    "price": 403
+  },
+  {
+    "article_nr": 72289,
+    "year": "NV",
+    "name": "Beurton-Vincent Cuvée Brut Réserve",
+    "price_per_liter": 433.33,
+    "price": 325
+  },
+  {
+    "article_nr": 71612,
+    "year": 2006,
+    "name": "Beurton-Vincent Cuvée Prestige Millésimé",
+    "price_per_liter": 642.67,
+    "price": 482
+  },
+  {
+    "article_nr": 74068,
+    "year": "NV",
+    "name": "Beurton-Vincent Cuvée Brut Rosé",
+    "price_per_liter": 478.67,
+    "price": 359
+  },
+  {
+    "article_nr": 7454,
+    "year": "NV",
+    "name": "Billecart-Salmon Brut Réserve",
+    "price_per_liter": 599.33,
+    "price": 899
+  },
+  {
+    "article_nr": 75032,
+    "year": "NV",
+    "name": "Billecart-Salmon 200 Extra Brut",
+    "price_per_liter": 9330,
+    "price": 13995
+  },
+  {
+    "article_nr": 77082,
+    "year": "NV",
+    "name": "Billecart-Salmon Brut Rosé",
+    "price_per_liter": 866,
+    "price": 1299
+  },
+  {
+    "article_nr": 77117,
+    "year": 2007,
+    "name": "Billecart-Salmon Cuvée Elisabeth Brut",
+    "price_per_liter": 2126.67,
+    "price": 1595
+  },
+  {
+    "article_nr": 77376,
+    "year": "NV",
+    "name": "Billecart-Salmon Blanc de Blancs Grand Cru Brut",
+    "price_per_liter": 998.67,
+    "price": 749
+  },
+  {
+    "article_nr": 77167,
+    "year": 2008,
+    "name": "Billecart-Salmon Vintage",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 7454,
+    "year": "NV",
+    "name": "Billecart-Salmon Brut Réserve",
+    "price_per_liter": 558.67,
+    "price": 419
+  },
+  {
+    "article_nr": 7758,
+    "year": "NV",
+    "name": "Billecart-Salmon Brut Rosé",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 77220,
+    "year": 1998,
+    "name": "Boërl & Kroff Cuvée Sélectionnée Brut",
+    "price_per_liter": 35098,
+    "price": 52647
+  },
+  {
+    "article_nr": 77243,
+    "year": "NV",
+    "name": "Boërl & Kroff Cuvée Sélectionnée Brut Rosé",
+    "price_per_liter": 33148.67,
+    "price": 49723
+  },
+  {
+    "article_nr": 75718,
+    "year": "NV",
+    "name": "Boever et Fils 3 Filles de Caractère",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 7418,
+    "year": "NV",
+    "name": "Bollinger Special Cuvée Brut",
+    "price_per_liter": 799.33,
+    "price": 1199
+  },
+  {
+    "article_nr": 76896,
+    "year": 2004,
+    "name": "Bollinger R.D. Extra Brut",
+    "price_per_liter": 2532,
+    "price": 1899
+  },
+  {
+    "article_nr": 7418,
+    "year": "NV",
+    "name": "Bollinger Special Cuvée Brut",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 7579,
+    "year": 2012,
+    "name": "Bollinger La Grande Année Brut",
+    "price_per_liter": 1998.67,
+    "price": 1499
+  },
+  {
+    "article_nr": 7755,
+    "year": "NV",
+    "name": "Bollinger Rosé",
+    "price_per_liter": 878.67,
+    "price": 659
+  },
+  {
+    "article_nr": 72272,
+    "year": "NV",
+    "name": "Bonnaire Tradition Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 74888,
+    "year": "NV",
+    "name": "Bonnaire Grand Cru Blanc de Blancs Brut Nature",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 78919,
+    "year": 2012,
+    "name": "Bonnaire Grand Cru Blanc de Blancs Millésimé Extra Brut",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 72328,
+    "year": "NV",
+    "name": "Bonnet-Ponson Non Dose Premier Cru",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 77066,
+    "year": "NV",
+    "name": "Bonnet-Ponson Premier Cru Brut",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 72983,
+    "year": 2012,
+    "name": "Bonville Pur Oger Blanc de Blancs Grand Cru",
+    "price_per_liter": 873.33,
+    "price": 655
+  },
+  {
+    "article_nr": 83531,
+    "year": "NV",
+    "name": "Bouché Cuvée Réservée Brut",
+    "price_per_liter": 440,
+    "price": 330
+  },
+  {
+    "article_nr": 77680,
+    "year": "NV",
+    "name": "Brimoncourt Extra Brut",
+    "price_per_liter": 710.67,
+    "price": 533
+  },
+  {
+    "article_nr": 77975,
+    "year": "NV",
+    "name": "Brimoncourt Brut Rosé",
+    "price_per_liter": 616,
+    "price": 462
+  },
+  {
+    "article_nr": 77554,
+    "year": "NV",
+    "name": "Brimoncourt Blanc de Blancs",
+    "price_per_liter": 670.67,
+    "price": 503
+  },
+  {
+    "article_nr": 77914,
+    "year": "NV",
+    "name": "Brimoncourt Brut Régence",
+    "price_per_liter": 549.33,
+    "price": 412
+  },
+  {
+    "article_nr": 78668,
+    "year": 2014,
+    "name": "Brocard Pierre Contrée Noire Extra Brut",
+    "price_per_liter": 720,
+    "price": 540
+  },
+  {
+    "article_nr": 74483,
+    "year": "NV",
+    "name": "Canard Duchêne Charles VII Rosé Brut",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 75638,
+    "year": "NV",
+    "name": "Canard Duchêne Charles VII Blanc de Blancs Brut",
+    "price_per_liter": 718.67,
+    "price": 539
+  },
+  {
+    "article_nr": 74107,
+    "year": "NV",
+    "name": "Canard Duchêne Charles VII Brut",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 77628,
+    "year": "NV",
+    "name": "Canard Duchêne Cuvée Léonie Brut",
+    "price_per_liter": 599.33,
+    "price": 899
+  },
+  {
+    "article_nr": 77620,
+    "year": "NV",
+    "name": "Canard Duchêne Charles VII Blanc de Noirs Brut",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 7557,
+    "year": "NV",
+    "name": "Castellane Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77077,
+    "year": "NV",
+    "name": "Castellane Brut Rosé",
+    "price_per_liter": 478.67,
+    "price": 359
+  },
+  {
+    "article_nr": 77045,
+    "year": 2013,
+    "name": "Castellane Brut Millesime",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 78006,
+    "year": "NV",
+    "name": "Cattier Blanc de Noirs Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 71114,
+    "year": "NV",
+    "name": "Cattier Blanc de Blancs Premier Cru Brut",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 77397,
+    "year": "NV",
+    "name": "Cattier Brut Premier Cru",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 77115,
+    "year": "NV",
+    "name": "Cattier Brut Nature Premier Cru",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 78792,
+    "year": "NV",
+    "name": "Cazals Claude Cuvée Vive Extra Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 70028,
+    "year": "NV",
+    "name": "Cazals Claude Cuvée Années Folles Grand Cru",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 75503,
+    "year": 2010,
+    "name": "Cazals Claude Millésime Grand Cru",
+    "price_per_liter": 926.67,
+    "price": 695
+  },
+  {
+    "article_nr": 70190,
+    "year": "NV",
+    "name": "Cazals Claude Carte Blanche Brut",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 75745,
+    "year": 2010,
+    "name": "Cazals Claude Le Clos Grand Cru Extra Brut",
+    "price_per_liter": 1346.67,
+    "price": 1010
+  },
+  {
+    "article_nr": 71227,
+    "year": "NV",
+    "name": "Cazals Claude Carte Or Grand Cru Brut",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 77799,
+    "year": 2005,
+    "name": "Champagne de Castelnau Blanc de Blancs",
+    "price_per_liter": 718.67,
+    "price": 539
+  },
+  {
+    "article_nr": 76191,
+    "year": "NV",
+    "name": "Champagne de Castelnau Reserve Brut",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 73175,
+    "year": 2006,
+    "name": "Champagne de Castelnau Millésime Brut",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 77651,
+    "year": "NV",
+    "name": "Champagne de Castelnau Brut Reserve",
+    "price_per_liter": 432.67,
+    "price": 649
+  },
+  {
+    "article_nr": 78897,
+    "year": "NV",
+    "name": "Champagne De Castelnau Rosé Brut",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 78575,
+    "year": 2004,
+    "name": "Champagne De Castelnau Millésime Brut",
+    "price_per_liter": 572.67,
+    "price": 859
+  },
+  {
+    "article_nr": 74105,
+    "year": "NV",
+    "name": "Champagne Gardet Team Platina Brut Tradition",
+    "price_per_liter": 557.33,
+    "price": 418
+  },
+  {
+    "article_nr": 76753,
+    "year": 2008,
+    "name": "Champagne Laforge Testa Millésime Brut",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 75980,
+    "year": "NV",
+    "name": "Champagne Mathelin Voff Brut Réserve",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 82901,
+    "year": "NV",
+    "name": "Champagne OSTRON Blanc de Blancs Grand Cru",
+    "price_per_liter": 434.67,
+    "price": 326
+  },
+  {
+    "article_nr": 72422,
+    "year": "NV",
+    "name": "Champagne Piot-Sévillano Rebelle Brut",
+    "price_per_liter": 502.67,
+    "price": 377
+  },
+  {
+    "article_nr": 7941,
+    "year": "NV",
+    "name": "Champagne Taittinger Demi-Sec",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77563,
+    "year": "NV",
+    "name": "Charles Clément Blanc de Blancs Brut",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 77896,
+    "year": "NV",
+    "name": "Charles Clément Rosé Brut",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 77484,
+    "year": "NV",
+    "name": "Charles Clément Tradition Brut",
+    "price_per_liter": 502.67,
+    "price": 377
+  },
+  {
+    "article_nr": 77913,
+    "year": "NV",
+    "name": "Charles Clément Blanc de Noirs Brut",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 77903,
+    "year": "NV",
+    "name": "Charles Clément Tradition Brut",
+    "price_per_liter": 510.67,
+    "price": 766
+  },
+  {
+    "article_nr": 77490,
+    "year": "NV",
+    "name": "Charles Collin Brut",
+    "price_per_liter": 444,
+    "price": 333
+  },
+  {
+    "article_nr": 77216,
+    "year": "NV",
+    "name": "Charles Ellner Brut Rosé",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 7395,
+    "year": "NV",
+    "name": "Charles Ellner Cuvée de Femme Brut",
+    "price_per_liter": 332,
+    "price": 249
+  },
+  {
+    "article_nr": 77522,
+    "year": "NV",
+    "name": "Charles Heidsieck Brut Réserve",
+    "price_per_liter": 625.33,
+    "price": 469
+  },
+  {
+    "article_nr": 77426,
+    "year": "NV",
+    "name": "Charles Heidsieck Rosé Réserve",
+    "price_per_liter": 785.33,
+    "price": 589
+  },
+  {
+    "article_nr": 77211,
+    "year": "NV",
+    "name": "Charles Heidsieck Brut Réserve",
+    "price_per_liter": 799.33,
+    "price": 1199
+  },
+  {
+    "article_nr": 7719,
+    "year": "NV",
+    "name": "Charles Mignon Brut Premium Reserve",
+    "price_per_liter": 305.33,
+    "price": 229
+  },
+  {
+    "article_nr": 7407,
+    "year": "NV",
+    "name": "Charles Mignon Premium Reserve Brut Rosé Premier Cru",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 7719,
+    "year": "NV",
+    "name": "Charles Mignon Brut Premium Reserve",
+    "price_per_liter": 466,
+    "price": 699
+  },
+  {
+    "article_nr": 79456,
+    "year": "NV",
+    "name": "Charles Orban Brut Blanc de Blancs",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 77538,
+    "year": 2006,
+    "name": "Charlier & Fils Special Club",
+    "price_per_liter": 728,
+    "price": 546
+  },
+  {
+    "article_nr": 77848,
+    "year": "NV",
+    "name": "Cheurlin Noëllat Carte d'or Brut",
+    "price_per_liter": 434.67,
+    "price": 326
+  },
+  {
+    "article_nr": 77616,
+    "year": "NV",
+    "name": "Claude Cazal Cuvée Rosé Grand Cru Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 76067,
+    "year": 2012,
+    "name": "Claude Cazals La Chapelle du Clos Brut Blanc de Blanc Grand Cru",
+    "price_per_liter": 1261.33,
+    "price": 946
+  },
+  {
+    "article_nr": 73578,
+    "year": "NV",
+    "name": "Claude Michez Cuvée Flore Brut",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 77269,
+    "year": 2009,
+    "name": "Clos des Bergeronneau Brut",
+    "price_per_liter": 1132,
+    "price": 849
+  },
+  {
+    "article_nr": 70634,
+    "year": 2007,
+    "name": "Clos des Bergeronneau Brut",
+    "price_per_liter": 1158.67,
+    "price": 869
+  },
+  {
+    "article_nr": 74742,
+    "year": 2008,
+    "name": "Clos des Bergeronneau Brut",
+    "price_per_liter": 1198.67,
+    "price": 899
+  },
+  {
+    "article_nr": 77399,
+    "year": "NV",
+    "name": "Clos du Moulin Brut Premier Cru",
+    "price_per_liter": 758.67,
+    "price": 569
+  },
+  {
+    "article_nr": 77442,
+    "year": "NV",
+    "name": "Collet Empreinte de Terroir Brut",
+    "price_per_liter": 397.33,
+    "price": 298
+  },
+  {
+    "article_nr": 7777,
+    "year": "NV",
+    "name": "Collet Brut",
+    "price_per_liter": 436,
+    "price": 327
+  },
+  {
+    "article_nr": 74884,
+    "year": "NV",
+    "name": "Collet Blanc de Blancs Brut",
+    "price_per_liter": 556,
+    "price": 417
+  },
+  {
+    "article_nr": 77622,
+    "year": 2006,
+    "name": "Collet Brut Millesime",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 77627,
+    "year": "NV",
+    "name": "Collet Extra Brut",
+    "price_per_liter": 472,
+    "price": 354
+  },
+  {
+    "article_nr": 83638,
+    "year": "NV",
+    "name": "Collet Brut Rosé",
+    "price_per_liter": 485.33,
+    "price": 364
+  },
+  {
+    "article_nr": 83643,
+    "year": "NV",
+    "name": "Collet Brut Grand Art",
+    "price_per_liter": 484,
+    "price": 363
+  },
+  {
+    "article_nr": 77663,
+    "year": 2004,
+    "name": "Comte Audoin de Dampierre Grand Vintage",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 77833,
+    "year": "NV",
+    "name": "Comte Hugues de La Bourdonnaye Brut Nature",
+    "price_per_liter": 626.67,
+    "price": 470
+  },
+  {
+    "article_nr": 77966,
+    "year": "NV",
+    "name": "Comte Hugues de La Bourdonnaye Blanc de Blancs Brut Nature",
+    "price_per_liter": 685.33,
+    "price": 514
+  },
+  {
+    "article_nr": 75512,
+    "year": "NV",
+    "name": "Comte Hugues de La Bourdonnaye Brut Nature Rosé",
+    "price_per_liter": 685.33,
+    "price": 514
+  },
+  {
+    "article_nr": 77583,
+    "year": "NV",
+    "name": "Comte Hugues de La Bourdonnaye Blanc de Blancs Brut Nature",
+    "price_per_liter": 700.67,
+    "price": 1051
+  },
+  {
+    "article_nr": 77957,
+    "year": "NV",
+    "name": "Cristian Senez Rosé Brut",
+    "price_per_liter": 462.67,
+    "price": 347
+  },
+  {
+    "article_nr": 72002,
+    "year": 2000,
+    "name": "Cristian Senez Millésime",
+    "price_per_liter": 722.67,
+    "price": 542
+  },
+  {
+    "article_nr": 77393,
+    "year": "NV",
+    "name": "Cristian Senez Brut Carte Blanche",
+    "price_per_liter": 436,
+    "price": 327
+  },
+  {
+    "article_nr": 75162,
+    "year": "NV",
+    "name": "Cuperly Grand Cru Blanc de Noir Prestige Brut",
+    "price_per_liter": 785.33,
+    "price": 589
+  },
+  {
+    "article_nr": 76553,
+    "year": "NV",
+    "name": "Cuperly Grande Reserve Grand Cru Brut",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 70242,
+    "year": 2013,
+    "name": "Cuvée Charlemagne Les Coulmets Grand Cru",
+    "price_per_liter": 810.67,
+    "price": 608
+  },
+  {
+    "article_nr": 76246,
+    "year": 2014,
+    "name": "Cuvée Cœur de Pinots Joseph Desruets",
+    "price_per_liter": 781.33,
+    "price": 586
+  },
+  {
+    "article_nr": 77331,
+    "year": "NV",
+    "name": "Cuvée du Bicentenaire Brut",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 87843,
+    "year": 2002,
+    "name": "Cuvée Présidence Blanc de Blancs",
+    "price_per_liter": 972,
+    "price": 729
+  },
+  {
+    "article_nr": 7548,
+    "year": 2009,
+    "name": "Cuvée Sir Winston Churchill",
+    "price_per_liter": 2333.33,
+    "price": 1750
+  },
+  {
+    "article_nr": 77368,
+    "year": "NV",
+    "name": "Cuvée the Convincer The Per Gessle Selection",
+    "price_per_liter": 473.33,
+    "price": 355
+  },
+  {
+    "article_nr": 77655,
+    "year": "NV",
+    "name": "Cuvée the Pleaser The Per Gessle Selection",
+    "price_per_liter": 513.33,
+    "price": 385
+  },
+  {
+    "article_nr": 76026,
+    "year": "NV",
+    "name": "Cuvée Uddevalla Premier Cru",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 77854,
+    "year": "NV",
+    "name": "Dauby Flore Préstige Grand cru",
+    "price_per_liter": 624,
+    "price": 468
+  },
+  {
+    "article_nr": 7417,
+    "year": "NV",
+    "name": "De Saint Gall Brut Rosé",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 77086,
+    "year": "NV",
+    "name": "De Saint Gall Premier Cru Blanc de Blancs Brut",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 77196,
+    "year": 2009,
+    "name": "De Saint Gall Premier Cru Brut Millésime",
+    "price_per_liter": 530,
+    "price": 795
+  },
+  {
+    "article_nr": 77198,
+    "year": "NV",
+    "name": "De Saint Gall Grand Cru Rosé",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 77199,
+    "year": "NV",
+    "name": "De Saint Gall Grand Cru Extra Brut",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 77279,
+    "year": "NV",
+    "name": "De Saint Gall Premier Cru Brut Tradition",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 7878,
+    "year": 2009,
+    "name": "De Saint Gall Brut Blanc de Blancs Millésime",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 7885,
+    "year": "NV",
+    "name": "De Saint Gall Premier Cru Extra Brut Blanc de Blancs",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 77086,
+    "year": "NV",
+    "name": "De Saint Gall Premier Cru Blanc de Blancs Brut",
+    "price_per_liter": 466,
+    "price": 699
+  },
+  {
+    "article_nr": 77623,
+    "year": "NV",
+    "name": "de Venoge Cordon Bleu Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 77935,
+    "year": "NV",
+    "name": "de Venoge Cordon Bleu Brut Rosé",
+    "price_per_liter": 593.33,
+    "price": 445
+  },
+  {
+    "article_nr": 77871,
+    "year": "NV",
+    "name": "De Venoge Princes Blanc de Blancs",
+    "price_per_liter": 880,
+    "price": 660
+  },
+  {
+    "article_nr": 77816,
+    "year": "NV",
+    "name": "De Venoge Princes Rosé",
+    "price_per_liter": 880,
+    "price": 660
+  },
+  {
+    "article_nr": 77374,
+    "year": "NV",
+    "name": "De Venoge Princes Blanc de Noirs",
+    "price_per_liter": 880,
+    "price": 660
+  },
+  {
+    "article_nr": 77479,
+    "year": "NV",
+    "name": "De Venoge Princes Extra Brut",
+    "price_per_liter": 880,
+    "price": 660
+  },
+  {
+    "article_nr": 7351,
+    "year": "NV",
+    "name": "Delamotte Brut",
+    "price_per_liter": 626,
+    "price": 939
+  },
+  {
+    "article_nr": 77736,
+    "year": "NV",
+    "name": "Delamotte Blancs de Blancs Brut",
+    "price_per_liter": 746,
+    "price": 1119
+  },
+  {
+    "article_nr": 7351,
+    "year": "NV",
+    "name": "Delamotte Brut",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 91319,
+    "year": "NV",
+    "name": "Delamotte Blanc de Blancs",
+    "price_per_liter": 638.67,
+    "price": 479
+  },
+  {
+    "article_nr": 97046,
+    "year": 2012,
+    "name": "Delamotte Blanc de Blancs Brut",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 92675,
+    "year": 1999,
+    "name": "Delamotte Collection Blanc de Blancs Brut",
+    "price_per_liter": 3198.67,
+    "price": 2399
+  },
+  {
+    "article_nr": 72380,
+    "year": "NV",
+    "name": "Denis Frézier Terroir Blanc Brut",
+    "price_per_liter": 480,
+    "price": 360
+  },
+  {
+    "article_nr": 76642,
+    "year": 2012,
+    "name": "Denis Frézier Millésime Brut",
+    "price_per_liter": 504,
+    "price": 378
+  },
+  {
+    "article_nr": 77963,
+    "year": "NV",
+    "name": "Denis Frézier Trois Crus Demi Sec",
+    "price_per_liter": 421.33,
+    "price": 316
+  },
+  {
+    "article_nr": 78533,
+    "year": "NV",
+    "name": "Denis Frèzier Trois Crus Brut",
+    "price_per_liter": 421.33,
+    "price": 316
+  },
+  {
+    "article_nr": 76117,
+    "year": "NV",
+    "name": "Des Dames de France Grand Cru Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 77403,
+    "year": 1989,
+    "name": "Desbordes-Amiaud Premier Cru",
+    "price_per_liter": 856,
+    "price": 642
+  },
+  {
+    "article_nr": 7487,
+    "year": "NV",
+    "name": "Deutz Brut Classic",
+    "price_per_liter": 632.67,
+    "price": 949
+  },
+  {
+    "article_nr": 77239,
+    "year": "NV",
+    "name": "Deutz Rosé Brut",
+    "price_per_liter": 758.67,
+    "price": 569
+  },
+  {
+    "article_nr": 77239,
+    "year": "NV",
+    "name": "Deutz Rosé Brut",
+    "price_per_liter": 799.33,
+    "price": 1199
+  },
+  {
+    "article_nr": 7487,
+    "year": "NV",
+    "name": "Deutz Brut Classic",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 97044,
+    "year": 2013,
+    "name": "Deutz Blanc de blancs",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 75133,
+    "year": "NV",
+    "name": "Deutz Sakura Rosé",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 95943,
+    "year": 2014,
+    "name": "Deutz Rosé Vintage",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 7723,
+    "year": "NV",
+    "name": "Diebolt-Vallois Prestige Brut",
+    "price_per_liter": 666,
+    "price": 999
+  },
+  {
+    "article_nr": 83020,
+    "year": "NV",
+    "name": "Diebolt-Vallois Tradition",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 88914,
+    "year": "NV",
+    "name": "Diebolt-Vallois Blanc de Blancs",
+    "price_per_liter": 492,
+    "price": 369
+  },
+  {
+    "article_nr": 90504,
+    "year": 2010,
+    "name": "Diebolt-Vallois Fleur de Passion",
+    "price_per_liter": 1278.67,
+    "price": 959
+  },
+  {
+    "article_nr": 74308,
+    "year": "NV",
+    "name": "Diebolt-Vallois Probono Blanc de Blancs Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 7723,
+    "year": "NV",
+    "name": "Diebolt-Vallois Prestige Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 7428,
+    "year": 2008,
+    "name": "Dom Pérignon",
+    "price_per_liter": 2265.33,
+    "price": 1699
+  },
+  {
+    "article_nr": 71578,
+    "year": "NV",
+    "name": "Domaine Dehours Grande Réserve Brut",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 79654,
+    "year": 2011,
+    "name": "Domaine Dehours La Croix Joly Oeil de Perdrix Extra Brut",
+    "price_per_liter": 958.67,
+    "price": 719
+  },
+  {
+    "article_nr": 77989,
+    "year": "NV",
+    "name": "Doyard Mahé Empreinte Brut",
+    "price_per_liter": 596,
+    "price": 447
+  },
+  {
+    "article_nr": 77647,
+    "year": "NV",
+    "name": "Doyard Mahé Cuvée Désir Blanc de Blancs Extra Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 74538,
+    "year": "NV",
+    "name": "Drappier Carte d'Or Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 75009,
+    "year": "NV",
+    "name": "Drappier Brut Nature Zero Dosage",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 74538,
+    "year": "NV",
+    "name": "Drappier Carte d'Or Brut",
+    "price_per_liter": 527.33,
+    "price": 791
+  },
+  {
+    "article_nr": 77126,
+    "year": 2013,
+    "name": "Drappier Millésime Exception Brut",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 77127,
+    "year": 2009,
+    "name": "Drappier Grand Sendrée Brut",
+    "price_per_liter": 972,
+    "price": 729
+  },
+  {
+    "article_nr": 77236,
+    "year": "NV",
+    "name": "Drappier Brut Nature Pinot Noir Zero Dosage Sans Soufre",
+    "price_per_liter": 692,
+    "price": 519
+  },
+  {
+    "article_nr": 77448,
+    "year": 2008,
+    "name": "Driant-Valentin Millésime Brut",
+    "price_per_liter": 710.67,
+    "price": 533
+  },
+  {
+    "article_nr": 77214,
+    "year": 2000,
+    "name": "Driant-Valentin Millésime Brut",
+    "price_per_liter": 856.67,
+    "price": 1285
+  },
+  {
+    "article_nr": 77172,
+    "year": "NV",
+    "name": "Dumangin La Cuvée",
+    "price_per_liter": 525.33,
+    "price": 394
+  },
+  {
+    "article_nr": 77344,
+    "year": "NV",
+    "name": "Dumangin Le Rosé",
+    "price_per_liter": 634.67,
+    "price": 476
+  },
+  {
+    "article_nr": 77346,
+    "year": "NV",
+    "name": "Dumangin L´ Extra Brut",
+    "price_per_liter": 617.33,
+    "price": 463
+  },
+  {
+    "article_nr": 77102,
+    "year": 2008,
+    "name": "Dumangin Premium Blanc De Blancs Extra Brut",
+    "price_per_liter": 794.67,
+    "price": 596
+  },
+  {
+    "article_nr": 77122,
+    "year": 1996,
+    "name": "Dumangin Vinothèque Premier Cru Brut",
+    "price_per_liter": 3165.33,
+    "price": 2374
+  },
+  {
+    "article_nr": 77344,
+    "year": "NV",
+    "name": "Dumangin Le Rosé",
+    "price_per_liter": 796,
+    "price": 1194
+  },
+  {
+    "article_nr": 77634,
+    "year": 2008,
+    "name": "Dumangin Rosé De Saignée",
+    "price_per_liter": 926.67,
+    "price": 695
+  },
+  {
+    "article_nr": 76636,
+    "year": "NV",
+    "name": "Duménil Grande Réserve Permier Cru Brut",
+    "price_per_liter": 440,
+    "price": 330
+  },
+  {
+    "article_nr": 74300,
+    "year": 2002,
+    "name": "Duménil Brut Nature Millésime",
+    "price_per_liter": 730.67,
+    "price": 548
+  },
+  {
+    "article_nr": 76614,
+    "year": "NV",
+    "name": "Duménil Les Pêcherines Prestige Premier Cru Vieilles Vignes",
+    "price_per_liter": 558.67,
+    "price": 419
+  },
+  {
+    "article_nr": 77012,
+    "year": "NV",
+    "name": "Duménil Amour de Cuvée Blanc de Noirs Premier Cru Brut",
+    "price_per_liter": 545.33,
+    "price": 409
+  },
+  {
+    "article_nr": 77073,
+    "year": 2012,
+    "name": "Duménil Special Club Brut Premier Cru",
+    "price_per_liter": 741.33,
+    "price": 556
+  },
+  {
+    "article_nr": 7522,
+    "year": 2008,
+    "name": "Duménil Brut Millésimé Premier Cru",
+    "price_per_liter": 517.33,
+    "price": 388
+  },
+  {
+    "article_nr": 77955,
+    "year": "NV",
+    "name": "Duval Leroy Brut Réserve",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 7901,
+    "year": "NV",
+    "name": "Duval-Leroy Brut Rosé Prestige Premier Cru",
+    "price_per_liter": 745.33,
+    "price": 559
+  },
+  {
+    "article_nr": 77773,
+    "year": "NV",
+    "name": "Egly-Ouriet Grand Cru Brut Rosé",
+    "price_per_liter": 1372,
+    "price": 1029
+  },
+  {
+    "article_nr": 77565,
+    "year": "NV",
+    "name": "Egly-Ouriet Brut Tradition Grand Cru",
+    "price_per_liter": 958.67,
+    "price": 719
+  },
+  {
+    "article_nr": 79878,
+    "year": "NV",
+    "name": "Elodie D Tradition Brut",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 77446,
+    "year": "NV",
+    "name": "Elodie D Blanc de Blancs Premier Cru",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 77561,
+    "year": "NV",
+    "name": "Emile Leclère Réserve Brut",
+    "price_per_liter": 385.33,
+    "price": 289
+  },
+  {
+    "article_nr": 77031,
+    "year": 2015,
+    "name": "Émile Leclère Brut",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 77652,
+    "year": "NV",
+    "name": "Eric Rodez Ambonnay Blanc de Noirs grand Cru Brut",
+    "price_per_liter": 745.33,
+    "price": 559
+  },
+  {
+    "article_nr": 77465,
+    "year": "NV",
+    "name": "Eric Rodez Ambonnay Rosé Grand Cru Brut",
+    "price_per_liter": 772,
+    "price": 579
+  },
+  {
+    "article_nr": 72569,
+    "year": "NV",
+    "name": "Eric Rodez Cuvée des Crayéres Ambonnay Grand Cru",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 77675,
+    "year": "NV",
+    "name": "Exlusiv't Blanc de Meunier Brut",
+    "price_per_liter": 550.67,
+    "price": 413
+  },
+  {
+    "article_nr": 77188,
+    "year": "NV",
+    "name": "Festival Brut",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 77060,
+    "year": "NV",
+    "name": "Fine Fleur",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77329,
+    "year": "NV",
+    "name": "Forget-Chemin Carte Blanche Brut",
+    "price_per_liter": 399.33,
+    "price": 599
+  },
+  {
+    "article_nr": 77237,
+    "year": 2013,
+    "name": "Forget-Chemin Spécial Club Brut",
+    "price_per_liter": 612,
+    "price": 459
+  },
+  {
+    "article_nr": 77128,
+    "year": "NV",
+    "name": "Forget-Chemin Carte Blanche Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 79471,
+    "year": 2013,
+    "name": "Franck Bonville Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 658.67,
+    "price": 494
+  },
+  {
+    "article_nr": 70819,
+    "year": "NV",
+    "name": "Franck Bonville Blanc de Blancs Grand Cru Extra Brut",
+    "price_per_liter": 658.67,
+    "price": 494
+  },
+  {
+    "article_nr": 78171,
+    "year": "NV",
+    "name": "Franck Bonville Prestige Brut Chardonnay Reserve",
+    "price_per_liter": 592,
+    "price": 444
+  },
+  {
+    "article_nr": 72792,
+    "year": "NV",
+    "name": "Frédéric Thomas Ostronakademien Blanc De Blancs Premier Cru",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 70456,
+    "year": "NV",
+    "name": "G. Devavry Pinot Noir Grand Cru Brut",
+    "price_per_liter": 497.33,
+    "price": 373
+  },
+  {
+    "article_nr": 72440,
+    "year": 1989,
+    "name": "G. Devavry Trésor de Cave Millisime 1989",
+    "price_per_liter": 1193.33,
+    "price": 895
+  },
+  {
+    "article_nr": 72729,
+    "year": "NV",
+    "name": "G. Devavry Blanc de Blancs Premier Cru",
+    "price_per_liter": 477.33,
+    "price": 358
+  },
+  {
+    "article_nr": 70623,
+    "year": "NV",
+    "name": "Gabriel Pagin Carte D´Or Premier Cru",
+    "price_per_liter": 480,
+    "price": 360
+  },
+  {
+    "article_nr": 71309,
+    "year": "NV",
+    "name": "Gabriel Pagin Brut Natur Blanc De Noirs Premier Cru",
+    "price_per_liter": 600,
+    "price": 450
+  },
+  {
+    "article_nr": 79215,
+    "year": "NV",
+    "name": "Gallimard Pére & Fils Cuvée De Reserve Brut",
+    "price_per_liter": 393.33,
+    "price": 295
+  },
+  {
+    "article_nr": 73434,
+    "year": "NV",
+    "name": "Gaspard Crepaux Champagne Cuvée De Réserve Brut",
+    "price_per_liter": 606.67,
+    "price": 455
+  },
+  {
+    "article_nr": 72590,
+    "year": "NV",
+    "name": "Gatinois Grand Cru Brut Tradition",
+    "price_per_liter": 476,
+    "price": 357
+  },
+  {
+    "article_nr": 77485,
+    "year": 2011,
+    "name": "Gatinois Grand Cru Brut",
+    "price_per_liter": 690.67,
+    "price": 518
+  },
+  {
+    "article_nr": 77242,
+    "year": "NV",
+    "name": "Geoffroy Expression Brut",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 77724,
+    "year": 2005,
+    "name": "Geoffroy Extra Brut Millésime",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 79896,
+    "year": 2013,
+    "name": "Geoffroy Rosé de Saignée",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 77701,
+    "year": 2011,
+    "name": "Geoffroy Empreinte Premier Cru",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 77821,
+    "year": 1998,
+    "name": "Gisèle Devavry Trésor de Cave Brut",
+    "price_per_liter": 861.33,
+    "price": 646
+  },
+  {
+    "article_nr": 77158,
+    "year": "NV",
+    "name": "Gisèle Devavry Premier Cru Brut",
+    "price_per_liter": 449.33,
+    "price": 337
+  },
+  {
+    "article_nr": 77629,
+    "year": 2008,
+    "name": "Gisèle Devavry Millésime Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 72927,
+    "year": "NV",
+    "name": "Gisèle Devavry Cuvée Achille Brut",
+    "price_per_liter": 536,
+    "price": 402
+  },
+  {
+    "article_nr": 77699,
+    "year": "NV",
+    "name": "Godmé Sabine Réserve Premier Cru Brut",
+    "price_per_liter": 582.67,
+    "price": 437
+  },
+  {
+    "article_nr": 77474,
+    "year": "NV",
+    "name": "Godmé Sabine Blanc de Noirs Grand Cru Brut",
+    "price_per_liter": 636,
+    "price": 477
+  },
+  {
+    "article_nr": 77684,
+    "year": 2014,
+    "name": "Godmé Sabine Millésime Grand Cru Brut",
+    "price_per_liter": 768,
+    "price": 576
+  },
+  {
+    "article_nr": 77093,
+    "year": "NV",
+    "name": "Godmé Sabine Terre de Verzenay Grand Cru Extra Brut",
+    "price_per_liter": 768,
+    "price": 576
+  },
+  {
+    "article_nr": 77264,
+    "year": 2007,
+    "name": "Gosset Celebris Rosé",
+    "price_per_liter": 1732,
+    "price": 1299
+  },
+  {
+    "article_nr": 87661,
+    "year": "NV",
+    "name": "Gosset Grande Réserve Brut",
+    "price_per_liter": 826,
+    "price": 1239
+  },
+  {
+    "article_nr": 7405,
+    "year": "NV",
+    "name": "Gosset Grand Rosé Brut",
+    "price_per_liter": 866,
+    "price": 1299
+  },
+  {
+    "article_nr": 75185,
+    "year": "NV",
+    "name": "Gosset Grand Blanc de Meunier Extra Brut",
+    "price_per_liter": 1332,
+    "price": 999
+  },
+  {
+    "article_nr": 70412,
+    "year": 2007,
+    "name": "Gosset Celebris Extra Brut",
+    "price_per_liter": 1598.67,
+    "price": 1199
+  },
+  {
+    "article_nr": 7405,
+    "year": "NV",
+    "name": "Gosset Grand Rosé Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 92987,
+    "year": 2012,
+    "name": "Gosset Grand Millesime Brut",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 77477,
+    "year": "NV",
+    "name": "Gosset Grand Blanc de Blancs",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 77810,
+    "year": "NV",
+    "name": "Gosset-Brabant Tradition Premier Cru Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 73420,
+    "year": "NV",
+    "name": "Goutorbe Bouillot Cuvée Louise B",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 73380,
+    "year": "NV",
+    "name": "Goutorbe Bouillot Champs de Craie",
+    "price_per_liter": 566.67,
+    "price": 425
+  },
+  {
+    "article_nr": 95397,
+    "year": 2014,
+    "name": "Grongnet Special Club Champagne Grongnet",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 77984,
+    "year": "NV",
+    "name": "Guiborat Fils Blanc de Blanc",
+    "price_per_liter": 682.67,
+    "price": 512
+  },
+  {
+    "article_nr": 77614,
+    "year": 1998,
+    "name": "Guldkula Diamond Grand Cru Vintage",
+    "price_per_liter": 6199.33,
+    "price": 9299
+  },
+  {
+    "article_nr": 73077,
+    "year": "NV",
+    "name": "Guldkula Premier Cru",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 75950,
+    "year": "NV",
+    "name": "Guldkula Black Grand Cru Blanc de Noir",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 75097,
+    "year": "NV",
+    "name": "Guldkula Pink Grand Cru Rosé",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 75248,
+    "year": "NV",
+    "name": "Guldkula White Grand Cru Blanc de Blancs",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 73252,
+    "year": 2005,
+    "name": "Guy Charbaut Memory Blanc de Blancs Premier Cru Brut",
+    "price_per_liter": 1128,
+    "price": 846
+  },
+  {
+    "article_nr": 70945,
+    "year": 2009,
+    "name": "Guy Charlemagne Mesnillésime Grand Cru",
+    "price_per_liter": 1078.67,
+    "price": 809
+  },
+  {
+    "article_nr": 76574,
+    "year": "NV",
+    "name": "Guy Charlemagne Grand Cru Réserve Brut",
+    "price_per_liter": 592.67,
+    "price": 889
+  },
+  {
+    "article_nr": 76574,
+    "year": "NV",
+    "name": "Guy Charlemagne Grand Cru Réserve Brut",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 77033,
+    "year": "NV",
+    "name": "Guy de Chassey Blanc de Noirs Extra Brut Premier Cru",
+    "price_per_liter": 460,
+    "price": 345
+  },
+  {
+    "article_nr": 77463,
+    "year": 2008,
+    "name": "Guy de Chassey Millèsime",
+    "price_per_liter": 544,
+    "price": 408
+  },
+  {
+    "article_nr": 77383,
+    "year": "NV",
+    "name": "Guy de Chassey Brut Grand Cru",
+    "price_per_liter": 428,
+    "price": 321
+  },
+  {
+    "article_nr": 74491,
+    "year": 1982,
+    "name": "Guy Michel Millésime Brut",
+    "price_per_liter": 1193.33,
+    "price": 895
+  },
+  {
+    "article_nr": 72659,
+    "year": 2006,
+    "name": "Guy Michel Millésime Brut",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 76679,
+    "year": 1989,
+    "name": "Guy Michel Saveur d'Automne Brut",
+    "price_per_liter": 1060,
+    "price": 795
+  },
+  {
+    "article_nr": 95791,
+    "year": 2010,
+    "name": "H. Goutorbe Cuvée Millésime Grand Cru Henri Goutorbe",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 72765,
+    "year": 2008,
+    "name": "Hammerfall Templar Cuvée par Joacim Cans Premier Cru",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 77431,
+    "year": "NV",
+    "name": "Haton & Fils Grande Réserve Brut Rosé",
+    "price_per_liter": 424,
+    "price": 318
+  },
+  {
+    "article_nr": 77433,
+    "year": "NV",
+    "name": "Haton & Fils Cuvée Prestige",
+    "price_per_liter": 489.33,
+    "price": 367
+  },
+  {
+    "article_nr": 77471,
+    "year": "NV",
+    "name": "Haton & Fils Premier Cru Chardonnay Brut",
+    "price_per_liter": 462.67,
+    "price": 347
+  },
+  {
+    "article_nr": 74601,
+    "year": 2011,
+    "name": "Hautes Mottes Brut Nature Grand Cru",
+    "price_per_liter": 741.33,
+    "price": 556
+  },
+  {
+    "article_nr": 72866,
+    "year": "NV",
+    "name": "Hebrart Mes Favorites Premier Cru Brut",
+    "price_per_liter": 558.67,
+    "price": 419
+  },
+  {
+    "article_nr": 77661,
+    "year": 2012,
+    "name": "Hebrart Rive Gauche Rive Droite Grand Cru Extra Brut",
+    "price_per_liter": 1117.33,
+    "price": 838
+  },
+  {
+    "article_nr": 70392,
+    "year": "NV",
+    "name": "Henri Goutorbe Cuvée Prestige Premier Cru Brut",
+    "price_per_liter": 488,
+    "price": 366
+  },
+  {
+    "article_nr": 77835,
+    "year": "NV",
+    "name": "Henriet-Bazin Blanc de Noir",
+    "price_per_liter": 504,
+    "price": 378
+  },
+  {
+    "article_nr": 76295,
+    "year": "NV",
+    "name": "Henriet-Bazin Blanc de Blancs",
+    "price_per_liter": 504,
+    "price": 378
+  },
+  {
+    "article_nr": 76239,
+    "year": "NV",
+    "name": "Henriot Blanc de Blancs Brut",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 81422,
+    "year": "NV",
+    "name": "Henriot Brut Rosé",
+    "price_per_liter": 772,
+    "price": 579
+  },
+  {
+    "article_nr": 81466,
+    "year": "NV",
+    "name": "Henriot Souverain Brut",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 77710,
+    "year": 2008,
+    "name": "Henriot Millésimé Brut",
+    "price_per_liter": 812,
+    "price": 609
+  },
+  {
+    "article_nr": 93089,
+    "year": 2009,
+    "name": "Henriot Brut Millésime",
+    "price_per_liter": 865.33,
+    "price": 649
+  },
+  {
+    "article_nr": 81466,
+    "year": "NV",
+    "name": "Henriot Souverain Brut",
+    "price_per_liter": 632.67,
+    "price": 949
+  },
+  {
+    "article_nr": 7789,
+    "year": 2006,
+    "name": "Henriot Millésime Brut",
+    "price_per_liter": 945.33,
+    "price": 709
+  },
+  {
+    "article_nr": 96024,
+    "year": "NV",
+    "name": "Henriot Cuve 38",
+    "price_per_liter": 3002,
+    "price": 4503
+  },
+  {
+    "article_nr": 77134,
+    "year": 2014,
+    "name": "Héraclite Premier Cru Brut Nature",
+    "price_per_liter": 958.67,
+    "price": 719
+  },
+  {
+    "article_nr": 77918,
+    "year": "NV",
+    "name": "Hervé Dubois Grand Cru Brut Rosé",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 77495,
+    "year": 2009,
+    "name": "Hervé Dubois Blanc de Blancs Grand Cru",
+    "price_per_liter": 625.33,
+    "price": 469
+  },
+  {
+    "article_nr": 77353,
+    "year": "NV",
+    "name": "Hervé Dubois Blanc de Blancs Grand Cru Réserve Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 95314,
+    "year": 2012,
+    "name": "Hervé Dubois Blanc de Blanc Grand Cru Millésime",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 92904,
+    "year": 2014,
+    "name": "Hervieux-Dumez Special Club Premier Cru",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 79225,
+    "year": 2013,
+    "name": "Hervieux-Dumez Special Club Premier Cru Brut",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 78386,
+    "year": 2013,
+    "name": "J-M Sélèque Partition Extra Brut",
+    "price_per_liter": 821.33,
+    "price": 616
+  },
+  {
+    "article_nr": 77965,
+    "year": "NV",
+    "name": "J-M Sélèque Le Quintette Chardonnay Extra Brut",
+    "price_per_liter": 596,
+    "price": 447
+  },
+  {
+    "article_nr": 77937,
+    "year": "NV",
+    "name": "J-M Sélèque Solessence 7 Villages Rosé Extra Brut",
+    "price_per_liter": 490.67,
+    "price": 368
+  },
+  {
+    "article_nr": 77898,
+    "year": 2014,
+    "name": "J-M Sélèque Soliste Meunier Premier Cru Extra Brut",
+    "price_per_liter": 796,
+    "price": 597
+  },
+  {
+    "article_nr": 70628,
+    "year": "NV",
+    "name": "J-M Sélèque Solessence Nature Brut",
+    "price_per_liter": 530.67,
+    "price": 398
+  },
+  {
+    "article_nr": 70896,
+    "year": "NV",
+    "name": "J-Y de Carlini Blanc de Noirs Grand Cru Brut",
+    "price_per_liter": 449.33,
+    "price": 337
+  },
+  {
+    "article_nr": 76364,
+    "year": "NV",
+    "name": "J-Y de Carlini Rosé Grand Cru Brut",
+    "price_per_liter": 456,
+    "price": 342
+  },
+  {
+    "article_nr": 74422,
+    "year": 1999,
+    "name": "J. Charpentier Millésime",
+    "price_per_liter": 1061.33,
+    "price": 796
+  },
+  {
+    "article_nr": 74224,
+    "year": 2008,
+    "name": "J. Charpentier Millésime Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 77120,
+    "year": 2000,
+    "name": "J. Charpentier Millésime Brut",
+    "price_per_liter": 1061.33,
+    "price": 796
+  },
+  {
+    "article_nr": 75385,
+    "year": "NV",
+    "name": "J.L Vergnon Conversation Blanc De Blanc Grand Cru Brut",
+    "price_per_liter": 522.67,
+    "price": 392
+  },
+  {
+    "article_nr": 76277,
+    "year": "NV",
+    "name": "J.L Vergnon Rosénmotion Grand Cru Rosé Extra-Brut",
+    "price_per_liter": 569.33,
+    "price": 427
+  },
+  {
+    "article_nr": 77333,
+    "year": 2002,
+    "name": "Jacquart Brut Mosaïque Millésimé",
+    "price_per_liter": 596,
+    "price": 447
+  },
+  {
+    "article_nr": 77357,
+    "year": "NV",
+    "name": "Jacquart Mosaïque Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77900,
+    "year": "NV",
+    "name": "Jacques Picard Brut",
+    "price_per_liter": 386.67,
+    "price": 290
+  },
+  {
+    "article_nr": 78594,
+    "year": "NV",
+    "name": "Jacquinot & Fils Blanc de Noir",
+    "price_per_liter": 500,
+    "price": 375
+  },
+  {
+    "article_nr": 76324,
+    "year": "NV",
+    "name": "Jacquinot & Fils Blanc de Blanc",
+    "price_per_liter": 500,
+    "price": 375
+  },
+  {
+    "article_nr": 70952,
+    "year": "NV",
+    "name": "Jacquinot & Fils Cuvée Carolina Gynning Brut",
+    "price_per_liter": 793.33,
+    "price": 595
+  },
+  {
+    "article_nr": 77847,
+    "year": "NV",
+    "name": "Jean Dumangin Blanc de Blanc Réserve Terroir Brut",
+    "price_per_liter": 372,
+    "price": 279
+  },
+  {
+    "article_nr": 77847,
+    "year": "NV",
+    "name": "Jean Dumangin Blanc de Blanc Réserve Terroir Brut",
+    "price_per_liter": 354.67,
+    "price": 532
+  },
+  {
+    "article_nr": 78543,
+    "year": "NV",
+    "name": "Jean Dumangin Carte d’or Héritage Premier Cru Brut",
+    "price_per_liter": 345.33,
+    "price": 259
+  },
+  {
+    "article_nr": 79943,
+    "year": "NV",
+    "name": "Jean Milan Grande Reserve Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 816.67,
+    "price": 1225
+  },
+  {
+    "article_nr": 77427,
+    "year": "NV",
+    "name": "Jean Milan Grande Réserve Grand Cru",
+    "price_per_liter": 641.33,
+    "price": 481
+  },
+  {
+    "article_nr": 75663,
+    "year": "NV",
+    "name": "Jean Plener Fils Cuvée Reservé Brut Grand Cru",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 79154,
+    "year": "NV",
+    "name": "Jean Plener Fils Grand Cru Brut",
+    "price_per_liter": 581.33,
+    "price": 436
+  },
+  {
+    "article_nr": 79158,
+    "year": "NV",
+    "name": "Jean Plener Fils Grand Cru Brut Nature",
+    "price_per_liter": 728,
+    "price": 546
+  },
+  {
+    "article_nr": 72549,
+    "year": "NV",
+    "name": "Jean Vesselle Grand Cru Prestige Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77637,
+    "year": "NV",
+    "name": "Jean-Noël Haton Brut Classic",
+    "price_per_liter": 332,
+    "price": 249
+  },
+  {
+    "article_nr": 77570,
+    "year": "NV",
+    "name": "Jean-Noël Haton Brut Reserve",
+    "price_per_liter": 372,
+    "price": 279
+  },
+  {
+    "article_nr": 77621,
+    "year": "NV",
+    "name": "Jean-Noël Haton Rosé",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 72209,
+    "year": 2007,
+    "name": "Jean-Yves de Carlini Millésime Grand Cru Brut",
+    "price_per_liter": 729.33,
+    "price": 547
+  },
+  {
+    "article_nr": 7430,
+    "year": "NV",
+    "name": "Jeanmaire Brut",
+    "price_per_liter": 292,
+    "price": 219
+  },
+  {
+    "article_nr": 82622,
+    "year": 2010,
+    "name": "JM Gobillard & Fils Cuvée Prestige Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 82634,
+    "year": "NV",
+    "name": "JM Gobillard & Fils Grande Réserve Brut Premier Cru",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 74416,
+    "year": "NV",
+    "name": "JM Gobillard & Fils Blanc de Blancs Brut",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 77295,
+    "year": "NV",
+    "name": "JM Gobillard & Fils Ladies Circle Brut",
+    "price_per_liter": 393.33,
+    "price": 295
+  },
+  {
+    "article_nr": 87954,
+    "year": 2006,
+    "name": "José Michel & Fils Special Club Brut",
+    "price_per_liter": 678.67,
+    "price": 509
+  },
+  {
+    "article_nr": 79109,
+    "year": "NV",
+    "name": "José Michel & Fils Brut Tradition",
+    "price_per_liter": 434.67,
+    "price": 326
+  },
+  {
+    "article_nr": 73864,
+    "year": 2013,
+    "name": "José Michel & Fils Special Club",
+    "price_per_liter": 728,
+    "price": 546
+  },
+  {
+    "article_nr": 79411,
+    "year": "NV",
+    "name": "José Michel & Fils Brut Tradition Magnum",
+    "price_per_liter": 484,
+    "price": 726
+  },
+  {
+    "article_nr": 75901,
+    "year": "NV",
+    "name": "Joseph Desruets Réserve Brut Premiere Cru",
+    "price_per_liter": 510.67,
+    "price": 383
+  },
+  {
+    "article_nr": 76309,
+    "year": "NV",
+    "name": "Joseph Desruets Nature Premiere Cru Extra Brut",
+    "price_per_liter": 648,
+    "price": 486
+  },
+  {
+    "article_nr": 76451,
+    "year": "NV",
+    "name": "Joseph Desruets Rosé Premiere Cru Brut",
+    "price_per_liter": 510.67,
+    "price": 383
+  },
+  {
+    "article_nr": 71055,
+    "year": 2013,
+    "name": "Joseph Desruets Collection Cuvée II Premier Cru Brut",
+    "price_per_liter": 997.33,
+    "price": 748
+  },
+  {
+    "article_nr": 77825,
+    "year": "NV",
+    "name": "Joseph Perrier Cuvée Royale Blanc de Blancs Brut",
+    "price_per_liter": 758.67,
+    "price": 569
+  },
+  {
+    "article_nr": 77380,
+    "year": "NV",
+    "name": "Joseph Perrier Cuvée Royale Brut",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 77380,
+    "year": "NV",
+    "name": "Joseph Perrier Cuvée Royale Brut",
+    "price_per_liter": 586,
+    "price": 879
+  },
+  {
+    "article_nr": 93040,
+    "year": 2010,
+    "name": "Joseph Perrier Blanc de Noirs Brut Nature",
+    "price_per_liter": 878.67,
+    "price": 659
+  },
+  {
+    "article_nr": 75823,
+    "year": "NV",
+    "name": "Juillet-Lallement Brut Selection Grand Cru",
+    "price_per_liter": 528,
+    "price": 396
+  },
+  {
+    "article_nr": 74981,
+    "year": "NV",
+    "name": "Jumeau-Delozanne Tradition Brut",
+    "price_per_liter": 621.33,
+    "price": 466
+  },
+  {
+    "article_nr": 78176,
+    "year": "NV",
+    "name": "Jumeau-Delozanne Rosé Brut",
+    "price_per_liter": 686.67,
+    "price": 515
+  },
+  {
+    "article_nr": 78584,
+    "year": "NV",
+    "name": "Jumeau-Delozanne Réserve Brut",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 87135,
+    "year": "NV",
+    "name": "Krug Grande Cuvée",
+    "price_per_liter": 3332.67,
+    "price": 4999
+  },
+  {
+    "article_nr": 85391,
+    "year": "NV",
+    "name": "Krug Rosé",
+    "price_per_liter": 4265.33,
+    "price": 3199
+  },
+  {
+    "article_nr": 7494,
+    "year": "NV",
+    "name": "Krug Grande Cuvée",
+    "price_per_liter": 2398.67,
+    "price": 1799
+  },
+  {
+    "article_nr": 97021,
+    "year": 2006,
+    "name": "Krug Vintage",
+    "price_per_liter": 3172,
+    "price": 2379
+  },
+  {
+    "article_nr": 76115,
+    "year": 2009,
+    "name": "L Bénard-Pitois Premier Cru",
+    "price_per_liter": 544,
+    "price": 408
+  },
+  {
+    "article_nr": 77863,
+    "year": "NV",
+    "name": "L Bénard-Pitois Premier Cru Brut Rosé",
+    "price_per_liter": 444,
+    "price": 333
+  },
+  {
+    "article_nr": 7936,
+    "year": "NV",
+    "name": "L'Affût Adam-Mereaux Brut",
+    "price_per_liter": 464,
+    "price": 348
+  },
+  {
+    "article_nr": 74964,
+    "year": "NV",
+    "name": "L’amour Sans Pareil Cuvée Seléctionnée Yohan Adell",
+    "price_per_liter": 429.33,
+    "price": 322
+  },
+  {
+    "article_nr": 97059,
+    "year": 2012,
+    "name": "La Belle de Juillet Extra Brut Blanc de Noirs Grand Cru",
+    "price_per_liter": 1198.67,
+    "price": 899
+  },
+  {
+    "article_nr": 74359,
+    "year": "NV",
+    "name": "La Chouette de Champillion Premier Cru Rosé Brut",
+    "price_per_liter": 522.67,
+    "price": 392
+  },
+  {
+    "article_nr": 77366,
+    "year": "NV",
+    "name": "La Chouette de Champillon Blanc de Noirs",
+    "price_per_liter": 345.33,
+    "price": 259
+  },
+  {
+    "article_nr": 77967,
+    "year": 2014,
+    "name": "La Première Grand Cru",
+    "price_per_liter": 918.67,
+    "price": 689
+  },
+  {
+    "article_nr": 72404,
+    "year": "NV",
+    "name": "La Villesenière Les Cuteries",
+    "price_per_liter": 782.67,
+    "price": 587
+  },
+  {
+    "article_nr": 78299,
+    "year": "NV",
+    "name": "Laherte Frères Blanc de Blancs Brut Nature",
+    "price_per_liter": 604,
+    "price": 453
+  },
+  {
+    "article_nr": 72845,
+    "year": 2010,
+    "name": "Lallier Millésime Grand Cru Brut",
+    "price_per_liter": 865.33,
+    "price": 649
+  },
+  {
+    "article_nr": 74006,
+    "year": "NV",
+    "name": "Lallier Nature Brut",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 77595,
+    "year": "NV",
+    "name": "Lallier Blanc de Blancs Grand Cru Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 77221,
+    "year": "NV",
+    "name": "Lallier R.015 Brut",
+    "price_per_liter": 530.67,
+    "price": 398
+  },
+  {
+    "article_nr": 77767,
+    "year": "NV",
+    "name": "Lallier Sélection Parcellaire Loridon Grand Cru Blanc de Blancs",
+    "price_per_liter": 1008,
+    "price": 756
+  },
+  {
+    "article_nr": 73463,
+    "year": "NV",
+    "name": "Lamiable Grand Cru Brut",
+    "price_per_liter": 477.33,
+    "price": 358
+  },
+  {
+    "article_nr": 70892,
+    "year": "NV",
+    "name": "Lamiable Brut Rose Grand Cru",
+    "price_per_liter": 494.67,
+    "price": 371
+  },
+  {
+    "article_nr": 77606,
+    "year": 2012,
+    "name": "Lamiable Grand Cru Phéérie",
+    "price_per_liter": 617.33,
+    "price": 463
+  },
+  {
+    "article_nr": 77550,
+    "year": 2011,
+    "name": "Lamiable Grand Cru Les Meslaines Millésime",
+    "price_per_liter": 617.33,
+    "price": 463
+  },
+  {
+    "article_nr": 71011,
+    "year": 1998,
+    "name": "Lanson Noble Cuvée by Petter",
+    "price_per_liter": 1332,
+    "price": 1998
+  },
+  {
+    "article_nr": 74155,
+    "year": 2009,
+    "name": "Lanson Gold Label Brut",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 7500,
+    "year": "NV",
+    "name": "Lanson Black Label",
+    "price_per_liter": 503.33,
+    "price": 755
+  },
+  {
+    "article_nr": 7495,
+    "year": "NV",
+    "name": "Lanson Rosé Label",
+    "price_per_liter": 612,
+    "price": 459
+  },
+  {
+    "article_nr": 7500,
+    "year": "NV",
+    "name": "Lanson Black Label Brut",
+    "price_per_liter": 526.67,
+    "price": 395
+  },
+  {
+    "article_nr": 77138,
+    "year": "NV",
+    "name": "Lanson Extra Age Brut",
+    "price_per_liter": 692,
+    "price": 519
+  },
+  {
+    "article_nr": 77138,
+    "year": "NV",
+    "name": "Lanson Extra Age Brut",
+    "price_per_liter": 779.33,
+    "price": 1169
+  },
+  {
+    "article_nr": 90665,
+    "year": 2006,
+    "name": "Lanson Le Clos",
+    "price_per_liter": 2660,
+    "price": 1995
+  },
+  {
+    "article_nr": 77611,
+    "year": "NV",
+    "name": "Lanson Extra Age Brut Blanc de Blancs",
+    "price_per_liter": 852,
+    "price": 639
+  },
+  {
+    "article_nr": 77240,
+    "year": "NV",
+    "name": "Lanson White Label Sec",
+    "price_per_liter": 558.67,
+    "price": 419
+  },
+  {
+    "article_nr": 77240,
+    "year": "NV",
+    "name": "Lanson White Label Sec",
+    "price_per_liter": 552.67,
+    "price": 829
+  },
+  {
+    "article_nr": 75848,
+    "year": "NV",
+    "name": "Launois Dorine Le Mesnil Sur Oger Blanc de Blanc Brut",
+    "price_per_liter": 492,
+    "price": 369
+  },
+  {
+    "article_nr": 7329,
+    "year": "NV",
+    "name": "Launois Vintage Blanc de Blancs Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 7450,
+    "year": "NV",
+    "name": "Launois Blanc de Blancs Brut Cuvée Réserve",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 78369,
+    "year": "NV",
+    "name": "Launois Oeil de Perdrix Blanc de Noirs",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 78773,
+    "year": "NV",
+    "name": "Laurent Perrier La Cuvée Brut",
+    "price_per_liter": 579.33,
+    "price": 869
+  },
+  {
+    "article_nr": 78773,
+    "year": "NV",
+    "name": "Laurent Perrier La Cuvée Brut",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 74804,
+    "year": "NV",
+    "name": "Laurent-Perrier Cuvée Rosé Brut",
+    "price_per_liter": 865.33,
+    "price": 649
+  },
+  {
+    "article_nr": 87340,
+    "year": "NV",
+    "name": "Laurent-Perrier Ultra Brut",
+    "price_per_liter": 758.67,
+    "price": 569
+  },
+  {
+    "article_nr": 75308,
+    "year": 2008,
+    "name": "Laurent-Perrier Millésimé Brut",
+    "price_per_liter": 785.33,
+    "price": 589
+  },
+  {
+    "article_nr": 77334,
+    "year": "NV",
+    "name": "Laurent-Perrier Grand Siècle no22",
+    "price_per_liter": 2466.67,
+    "price": 3700
+  },
+  {
+    "article_nr": 78621,
+    "year": "NV",
+    "name": "Laurent-Perrier Grand Siècle No 24 Brut",
+    "price_per_liter": 1998.67,
+    "price": 1499
+  },
+  {
+    "article_nr": 87452,
+    "year": "NV",
+    "name": "Laurent-Perrier Cuvée Rosé Brut",
+    "price_per_liter": 900,
+    "price": 1350
+  },
+  {
+    "article_nr": 71268,
+    "year": 2004,
+    "name": "Laurent-Perrier Alexandra Grand Cuvée Rosé Brut",
+    "price_per_liter": 3465.33,
+    "price": 2599
+  },
+  {
+    "article_nr": 77136,
+    "year": "NV",
+    "name": "Le Bois de Binson Éric Taillet",
+    "price_per_liter": 918.67,
+    "price": 689
+  },
+  {
+    "article_nr": 77681,
+    "year": 2006,
+    "name": "Le Mesnil Prestige Grand Cru Brut",
+    "price_per_liter": 794.67,
+    "price": 596
+  },
+  {
+    "article_nr": 77803,
+    "year": "NV",
+    "name": "Le Mesnil Grand Cru Brut Blanc de Blancs",
+    "price_per_liter": 557.33,
+    "price": 418
+  },
+  {
+    "article_nr": 71744,
+    "year": 2009,
+    "name": "Leclère-Massard Blanc de Blancs Premier Cru Brut",
+    "price_per_liter": 516,
+    "price": 387
+  },
+  {
+    "article_nr": 76477,
+    "year": "NV",
+    "name": "Legras & Haas Grand Cru Blanc de Blancs",
+    "price_per_liter": 486.67,
+    "price": 365
+  },
+  {
+    "article_nr": 75339,
+    "year": "NV",
+    "name": "Lelarge-Pugeot Tradition Extra-Brut",
+    "price_per_liter": 522.67,
+    "price": 392
+  },
+  {
+    "article_nr": 74062,
+    "year": "NV",
+    "name": "Lilbert-Fils Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 532.67,
+    "price": 799
+  },
+  {
+    "article_nr": 71913,
+    "year": 2013,
+    "name": "Lilbert-Fils Cramant Blanc des Blancs Grand Cru Brut",
+    "price_per_liter": 897.33,
+    "price": 673
+  },
+  {
+    "article_nr": 77671,
+    "year": "NV",
+    "name": "Lilbert-Fils Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 77252,
+    "year": "NV",
+    "name": "Lilbert-Fils Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 472,
+    "price": 354
+  },
+  {
+    "article_nr": 77747,
+    "year": "NV",
+    "name": "Lilbert-Fils Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 570,
+    "price": 855
+  },
+  {
+    "article_nr": 77725,
+    "year": "NV",
+    "name": "Lilbert-Fils Perle Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 77250,
+    "year": "NV",
+    "name": "Lilbert-Fils Perle Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 486.67,
+    "price": 365
+  },
+  {
+    "article_nr": 74079,
+    "year": "NV",
+    "name": "Lindesberg & Nora tillsammans 750 År",
+    "price_per_liter": 477.33,
+    "price": 358
+  },
+  {
+    "article_nr": 77053,
+    "year": "NV",
+    "name": "Locret-Lachaud Premier Cru Brut",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 77817,
+    "year": "NV",
+    "name": "Locret-Lachaud Cuvée Spéciale Rosé Premier Cru Brut",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 7921,
+    "year": "NV",
+    "name": "Lombard Extra Brut Premier Cru Blanc de Noir",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 70380,
+    "year": "NV",
+    "name": "Louis Massing Brut",
+    "price_per_liter": 292,
+    "price": 219
+  },
+  {
+    "article_nr": 77416,
+    "year": "NV",
+    "name": "Louis Massing Rosé Brut Premier Cru",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 7419,
+    "year": "NV",
+    "name": "Louis Massing Grand Cru Blanc de Blancs Brut Nature",
+    "price_per_liter": 513.33,
+    "price": 385
+  },
+  {
+    "article_nr": 97096,
+    "year": 2011,
+    "name": "Louis Roederer Brut Rosé",
+    "price_per_liter": 863.33,
+    "price": 1295
+  },
+  {
+    "article_nr": 90234,
+    "year": 2012,
+    "name": "Louis Roederer Cristal",
+    "price_per_liter": 2866.67,
+    "price": 2150
+  },
+  {
+    "article_nr": 7600,
+    "year": "NV",
+    "name": "Louis Roederer Carte Blanche",
+    "price_per_liter": 606.67,
+    "price": 455
+  },
+  {
+    "article_nr": 7602,
+    "year": "NV",
+    "name": "Louis Roederer Brut Premier",
+    "price_per_liter": 612,
+    "price": 459
+  },
+  {
+    "article_nr": 77498,
+    "year": "NV",
+    "name": "Louis Roederer Brut Premier",
+    "price_per_liter": 639.33,
+    "price": 959
+  },
+  {
+    "article_nr": 76510,
+    "year": 2013,
+    "name": "Louis Roederer Brut Vintage",
+    "price_per_liter": 838.67,
+    "price": 629
+  },
+  {
+    "article_nr": 77226,
+    "year": 2014,
+    "name": "Louis Roederer Rosé",
+    "price_per_liter": 812,
+    "price": 609
+  },
+  {
+    "article_nr": 77775,
+    "year": "NV",
+    "name": "Love & Bubbles Brut Premier Cru",
+    "price_per_liter": 516,
+    "price": 387
+  },
+  {
+    "article_nr": 77745,
+    "year": "NV",
+    "name": "Love & Bubbles Rosé Brut Premier Cru",
+    "price_per_liter": 516,
+    "price": 387
+  },
+  {
+    "article_nr": 77624,
+    "year": "NV",
+    "name": "Mallol-Gantois Cuvée Grande Cru Réserve Brut",
+    "price_per_liter": 492,
+    "price": 369
+  },
+  {
+    "article_nr": 70869,
+    "year": "NV",
+    "name": "Mandois Zero Dosage",
+    "price_per_liter": 526.67,
+    "price": 395
+  },
+  {
+    "article_nr": 75388,
+    "year": 2013,
+    "name": "Mandois Blanc de Blancs Premier Cru Brut",
+    "price_per_liter": 521.33,
+    "price": 391
+  },
+  {
+    "article_nr": 77851,
+    "year": 2008,
+    "name": "Mandois Cuvée Victor",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 77952,
+    "year": "NV",
+    "name": "Mandois Brut Rosé Grande Reserve",
+    "price_per_liter": 473.33,
+    "price": 355
+  },
+  {
+    "article_nr": 77023,
+    "year": "NV",
+    "name": "Mandois Brut Origine",
+    "price_per_liter": 460,
+    "price": 345
+  },
+  {
+    "article_nr": 77577,
+    "year": "NV",
+    "name": "Mandois Brut Origine",
+    "price_per_liter": 466,
+    "price": 699
+  },
+  {
+    "article_nr": 77161,
+    "year": "NV",
+    "name": "Marc Hebrart Rosé Brut Premier Cru",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 71985,
+    "year": "NV",
+    "name": "Marc Hebrart Sélection Premier Cru Brut",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 77437,
+    "year": 2015,
+    "name": "Marc Hebrart Noces de Craie Aÿ Grand Cru",
+    "price_per_liter": 965.33,
+    "price": 724
+  },
+  {
+    "article_nr": 77602,
+    "year": 2010,
+    "name": "Marc Hebrart Special Club Brut Premier Cru",
+    "price_per_liter": 742.67,
+    "price": 557
+  },
+  {
+    "article_nr": 97047,
+    "year": 2015,
+    "name": "Marc Hebrart Special Club Premier Cru",
+    "price_per_liter": 636,
+    "price": 477
+  },
+  {
+    "article_nr": 97067,
+    "year": 2008,
+    "name": "Mareuil sur Aÿ Premier Cru Extra Brut",
+    "price_per_liter": 1945.33,
+    "price": 1459
+  },
+  {
+    "article_nr": 74101,
+    "year": "NV",
+    "name": "Margaine Le Rosé",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 74265,
+    "year": "NV",
+    "name": "Marie Forget Premier Cru Brut",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 77394,
+    "year": "NV",
+    "name": "Mathelin Extra Brut",
+    "price_per_liter": 501.33,
+    "price": 376
+  },
+  {
+    "article_nr": 77916,
+    "year": "NV",
+    "name": "Mathelin Brut Reserve",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 74331,
+    "year": "NV",
+    "name": "Mathelin Lady Coralie Brut",
+    "price_per_liter": 782.67,
+    "price": 587
+  },
+  {
+    "article_nr": 77183,
+    "year": "NV",
+    "name": "Mathelin Tradition Brut",
+    "price_per_liter": 462.67,
+    "price": 347
+  },
+  {
+    "article_nr": 77607,
+    "year": "NV",
+    "name": "Mathelin L’Orée des Chênes Brut",
+    "price_per_liter": 516,
+    "price": 387
+  },
+  {
+    "article_nr": 77785,
+    "year": "NV",
+    "name": "Mathelin Rosé de Saignée Brut",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 77689,
+    "year": 2011,
+    "name": "Mathelin Prestige Millesime Brut",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 77708,
+    "year": "NV",
+    "name": "Maurice Grumier Reserve Perpétuelle Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 77116,
+    "year": "NV",
+    "name": "Maurice Grumier Blanc de Noirs Brut",
+    "price_per_liter": 466.67,
+    "price": 350
+  },
+  {
+    "article_nr": 77388,
+    "year": 2008,
+    "name": "Maurice Grumier Cuvée Amand Extra Brut",
+    "price_per_liter": 1036,
+    "price": 777
+  },
+  {
+    "article_nr": 93099,
+    "year": "NV",
+    "name": "Mesnil Experience Brut Nature Grand Cru",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 79256,
+    "year": 2012,
+    "name": "Michel Arnould Mémoire de Vignes",
+    "price_per_liter": 1144,
+    "price": 858
+  },
+  {
+    "article_nr": 78407,
+    "year": "NV",
+    "name": "Michel Arnould La Grande Cuvée Grand Cru Brut",
+    "price_per_liter": 656,
+    "price": 492
+  },
+  {
+    "article_nr": 73843,
+    "year": "NV",
+    "name": "Michel Arnould Réserve Grand Cru Brut",
+    "price_per_liter": 588,
+    "price": 441
+  },
+  {
+    "article_nr": 76090,
+    "year": "NV",
+    "name": "Michel Arnould Grand Cru Extra Brut",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 70889,
+    "year": "NV",
+    "name": "Michel Arnould Rosé Blanc de Noirs Grand Cru Brut",
+    "price_per_liter": 588,
+    "price": 441
+  },
+  {
+    "article_nr": 79298,
+    "year": 2013,
+    "name": "Michel Arnould Carte d'Or Grand Cru",
+    "price_per_liter": 733.33,
+    "price": 550
+  },
+  {
+    "article_nr": 78743,
+    "year": "NV",
+    "name": "Michel Arnould Tradition Blanc de Noirs Grand Cru",
+    "price_per_liter": 558.67,
+    "price": 419
+  },
+  {
+    "article_nr": 77990,
+    "year": "NV",
+    "name": "Michel Turgy Réserve Sélection Blanc de Blancs Grand Cru Brut",
+    "price_per_liter": 499.33,
+    "price": 749
+  },
+  {
+    "article_nr": 77795,
+    "year": "NV",
+    "name": "Michel Turgy Brut Rosé Grand Cru",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 79750,
+    "year": 2013,
+    "name": "Michel Turgy Vieilles Vignes Grand Cru",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 77990,
+    "year": "NV",
+    "name": "Michel Turgy Réserve Sélection Blanc de Blancs Grand Cru Brut",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 77694,
+    "year": 2012,
+    "name": "Michel Turgy Millésime Brut Blanc de Blancs Grand Cru",
+    "price_per_liter": 572,
+    "price": 429
+  },
+  {
+    "article_nr": 77257,
+    "year": "NV",
+    "name": "Minière Brut Zero",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 77539,
+    "year": "NV",
+    "name": "Minière Influence Rosé",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 77978,
+    "year": "NV",
+    "name": "Minière Influence",
+    "price_per_liter": 612,
+    "price": 459
+  },
+  {
+    "article_nr": 77173,
+    "year": "NV",
+    "name": "Minière Blanc Absolu Cuvée Brut",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 7545,
+    "year": 2012,
+    "name": "Moët & Chandon Grand Vintage",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 77338,
+    "year": "NV",
+    "name": "Moët & Chandon Ice Impérial Demi-Sec",
+    "price_per_liter": 638.67,
+    "price": 479
+  },
+  {
+    "article_nr": 7518,
+    "year": "NV",
+    "name": "Moët & Chandon Brut Impérial",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 7518,
+    "year": "NV",
+    "name": "Moët & Chandon Brut Impérial",
+    "price_per_liter": 599.33,
+    "price": 899
+  },
+  {
+    "article_nr": 7598,
+    "year": "NV",
+    "name": "Moët & Chandon Rosé Impérial",
+    "price_per_liter": 638.67,
+    "price": 479
+  },
+  {
+    "article_nr": 87127,
+    "year": 2009,
+    "name": "Moët & Chandon Grand Vintage Brut",
+    "price_per_liter": 746,
+    "price": 1119
+  },
+  {
+    "article_nr": 77467,
+    "year": "NV",
+    "name": "Moët & Chandon Nectar Impérial Demi-Sec",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 85960,
+    "year": "NV",
+    "name": "Mumm Cordon Rouge",
+    "price_per_liter": 546,
+    "price": 819
+  },
+  {
+    "article_nr": 7543,
+    "year": "NV",
+    "name": "Mumm Grand Cordon",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77153,
+    "year": 2013,
+    "name": "Mumm Brut Millésimé",
+    "price_per_liter": 625.33,
+    "price": 469
+  },
+  {
+    "article_nr": 77011,
+    "year": 2010,
+    "name": "Nicolas Feuillatte Grand Cru Millésimé Blanc de Noirs Brut",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 7592,
+    "year": 2012,
+    "name": "Nicolas Feuillatte Blanc de Blancs Collection Vintage",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 73488,
+    "year": "NV",
+    "name": "Nicolas Feuillatte Terrorir Premier Cru",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 88943,
+    "year": 2006,
+    "name": "Nicolas Feuillatte Cuvée Palmes d'Or Brut",
+    "price_per_liter": 1865.33,
+    "price": 1399
+  },
+  {
+    "article_nr": 88946,
+    "year": "NV",
+    "name": "Nicolas Feuillatte Brut Réserve",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 88946,
+    "year": "NV",
+    "name": "Nicolas Feuillatte Réserve Particulière",
+    "price_per_liter": 546,
+    "price": 819
+  },
+  {
+    "article_nr": 82416,
+    "year": "NV",
+    "name": "Noppe Brut",
+    "price_per_liter": 400,
+    "price": 300
+  },
+  {
+    "article_nr": 77536,
+    "year": "NV",
+    "name": "Norrviken Secret de Famille Brut",
+    "price_per_liter": 550.67,
+    "price": 413
+  },
+  {
+    "article_nr": 77324,
+    "year": "NV",
+    "name": "Notes Blanches Blanc de Blancs",
+    "price_per_liter": 664,
+    "price": 498
+  },
+  {
+    "article_nr": 77046,
+    "year": "NV",
+    "name": "Nuances Rosé Brut",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 77519,
+    "year": "NV",
+    "name": "Odd Fellow Cuvée Prestige Brut",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 77912,
+    "year": "NV",
+    "name": "Oeil de Perdrix",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77249,
+    "year": "NV",
+    "name": "Olivier et Laëtitia Marteaux Réserve Brut",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 77630,
+    "year": "NV",
+    "name": "Olivier et Laëtitia Marteaux Rosé de Saignée",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 77926,
+    "year": 2012,
+    "name": "Olivier et Laëtitia Marteaux Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 77733,
+    "year": 2000,
+    "name": "Orpale Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 1966.67,
+    "price": 2950
+  },
+  {
+    "article_nr": 75799,
+    "year": "NV",
+    "name": "Palmer Blanc de Noirs",
+    "price_per_liter": 472,
+    "price": 354
+  },
+  {
+    "article_nr": 7553,
+    "year": 2014,
+    "name": "Palmer Blanc de Blancs",
+    "price_per_liter": 478.67,
+    "price": 359
+  },
+  {
+    "article_nr": 72076,
+    "year": "NV",
+    "name": "Palmer Brut Réserve",
+    "price_per_liter": 469.33,
+    "price": 704
+  },
+  {
+    "article_nr": 7867,
+    "year": 2013,
+    "name": "Palmer & Co Vintage Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 82260,
+    "year": "NV",
+    "name": "Palmer & Co Brut Rosé",
+    "price_per_liter": 485.33,
+    "price": 364
+  },
+  {
+    "article_nr": 77318,
+    "year": 2003,
+    "name": "Palmer & Co Grand Terroirs",
+    "price_per_liter": 2469.33,
+    "price": 3704
+  },
+  {
+    "article_nr": 7867,
+    "year": 2008,
+    "name": "Palmer & Co Vintage Brut",
+    "price_per_liter": 699.33,
+    "price": 1049
+  },
+  {
+    "article_nr": 7553,
+    "year": 2014,
+    "name": "Palmer & Co Blanc de Blancs Brut",
+    "price_per_liter": 596,
+    "price": 894
+  },
+  {
+    "article_nr": 7372,
+    "year": "NV",
+    "name": "Palmer & Co Brut Reserve",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 7709,
+    "year": "NV",
+    "name": "Pannier Brut Tradition",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77255,
+    "year": "NV",
+    "name": "Pannier Rosé Brut",
+    "price_per_liter": 492,
+    "price": 369
+  },
+  {
+    "article_nr": 77457,
+    "year": "NV",
+    "name": "Pannier Rosé Velours Sec",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 76624,
+    "year": "NV",
+    "name": "Pannier Velours Blanc",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 2272,
+    "year": "NV",
+    "name": "Pannier Extra Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77907,
+    "year": 2002,
+    "name": "Paul Goerg Premier Cru Brut",
+    "price_per_liter": 566.67,
+    "price": 425
+  },
+  {
+    "article_nr": 77979,
+    "year": "NV",
+    "name": "Paul Lebrun Grande Réserve Blanc de Blancs Brut",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 77998,
+    "year": "NV",
+    "name": "Paul Lebrun Cuvée Préstige Brut",
+    "price_per_liter": 500,
+    "price": 375
+  },
+  {
+    "article_nr": 78579,
+    "year": "NV",
+    "name": "Perrier-Jouët Blason Brut Rosé",
+    "price_per_liter": 852,
+    "price": 639
+  },
+  {
+    "article_nr": 77995,
+    "year": "NV",
+    "name": "Perrier-Jouët Grand Brut",
+    "price_per_liter": 618.67,
+    "price": 464
+  },
+  {
+    "article_nr": 87914,
+    "year": 2012,
+    "name": "Perrier-Jouët Belle Epoque Brut",
+    "price_per_liter": 1920,
+    "price": 1440
+  },
+  {
+    "article_nr": 78194,
+    "year": "NV",
+    "name": "Pertois-Lebrun Exaltation Grand Cru Blanc de Blanc",
+    "price_per_liter": 636,
+    "price": 477
+  },
+  {
+    "article_nr": 72321,
+    "year": 2010,
+    "name": "Pertois-Lebrun Millésime",
+    "price_per_liter": 769.33,
+    "price": 577
+  },
+  {
+    "article_nr": 75035,
+    "year": 2010,
+    "name": "Pertois-Lebrun Le Fond du Bateau no 10",
+    "price_per_liter": 794.67,
+    "price": 596
+  },
+  {
+    "article_nr": 77415,
+    "year": 2012,
+    "name": "Pertois-Lebrun Derrière le Mont Aigu",
+    "price_per_liter": 861.33,
+    "price": 646
+  },
+  {
+    "article_nr": 77884,
+    "year": "NV",
+    "name": "Pertois-Lebrun L'Extravertie",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77428,
+    "year": "NV",
+    "name": "Pertois-Lebrun L'ambitieuse",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 76164,
+    "year": "NV",
+    "name": "Pertois-Lebrun Instant Brut Blancs de Blancs",
+    "price_per_liter": 502.67,
+    "price": 377
+  },
+  {
+    "article_nr": 90670,
+    "year": 2014,
+    "name": "Pertois-Moriset Special Club Grand Cru",
+    "price_per_liter": 728,
+    "price": 546
+  },
+  {
+    "article_nr": 79464,
+    "year": 2008,
+    "name": "Pertois-Moriset L'Année Grand Cru",
+    "price_per_liter": 997.33,
+    "price": 1496
+  },
+  {
+    "article_nr": 92225,
+    "year": 2010,
+    "name": "Pertois-Moriset L'Année Grand Cru",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 77262,
+    "year": "NV",
+    "name": "Philippe De Nantheuil Brut",
+    "price_per_liter": 265.33,
+    "price": 199
+  },
+  {
+    "article_nr": 76607,
+    "year": "NV",
+    "name": "Philippe Glavier La Grâce d'Alphaël Grand Cru Blanc de Blancs",
+    "price_per_liter": 577.33,
+    "price": 433
+  },
+  {
+    "article_nr": 97073,
+    "year": 2010,
+    "name": "Philipponnat Clos des Goisses",
+    "price_per_liter": 2200,
+    "price": 1650
+  },
+  {
+    "article_nr": 77363,
+    "year": "NV",
+    "name": "Philipponnat Royale Réserve Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 74776,
+    "year": "NV",
+    "name": "Philipponnat Royale Réserve Brut",
+    "price_per_liter": 532.67,
+    "price": 799
+  },
+  {
+    "article_nr": 85729,
+    "year": 2009,
+    "name": "Philipponnat Grand Blanc Extra Brut",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 82808,
+    "year": 2012,
+    "name": "Philipponnat Blanc de Noirs Extra Brut",
+    "price_per_liter": 998.67,
+    "price": 749
+  },
+  {
+    "article_nr": 90356,
+    "year": 2007,
+    "name": "Philipponnat Clos de Goisses",
+    "price_per_liter": 1865.33,
+    "price": 1399
+  },
+  {
+    "article_nr": 77445,
+    "year": 2015,
+    "name": "Pierre Brigandat Blanc de Noir Extra Brut",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 77575,
+    "year": "NV",
+    "name": "Pierre Brigandat Blanc de Noir Brut Tradition",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 79112,
+    "year": "NV",
+    "name": "Pierre Gimonnet & Fils Cuis Premier Cru",
+    "price_per_liter": 501.33,
+    "price": 376
+  },
+  {
+    "article_nr": 97030,
+    "year": 2008,
+    "name": "Pierre Gimonnet Collection",
+    "price_per_liter": 1264,
+    "price": 1896
+  },
+  {
+    "article_nr": 97000,
+    "year": 2012,
+    "name": "Pierre Gimonnet Oenophile Extra Brut Premier Cru",
+    "price_per_liter": 745.33,
+    "price": 559
+  },
+  {
+    "article_nr": 77642,
+    "year": "NV",
+    "name": "Pierre Moncuit Rosé Grand Cru Brut",
+    "price_per_liter": 662.67,
+    "price": 497
+  },
+  {
+    "article_nr": 70145,
+    "year": "NV",
+    "name": "Pierre Moncuit Hugues de Coulmet Blanc de Blancs Brut",
+    "price_per_liter": 657.33,
+    "price": 493
+  },
+  {
+    "article_nr": 71207,
+    "year": "NV",
+    "name": "Pierre Moncuit Delos Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 653.33,
+    "price": 490
+  },
+  {
+    "article_nr": 74220,
+    "year": 2005,
+    "name": "Pierre Moncuit Vieille Vigne Cuvée Nicole Moncuit Brut BLanc de Blanc",
+    "price_per_liter": 1321.33,
+    "price": 991
+  },
+  {
+    "article_nr": 7350,
+    "year": "NV",
+    "name": "Pierre Peters Cuvée de Réserve",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 7350,
+    "year": "NV",
+    "name": "Pierre Peters Cuvée de Réserve",
+    "price_per_liter": 552.67,
+    "price": 829
+  },
+  {
+    "article_nr": 77826,
+    "year": "NV",
+    "name": "Pierre Peters Rosé for Albane",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 72099,
+    "year": 2014,
+    "name": "Pierre Péters L'Esprit",
+    "price_per_liter": 732,
+    "price": 549
+  },
+  {
+    "article_nr": 79319,
+    "year": "NV",
+    "name": "Pierre Péters Blanc de Blancs Extra Brut",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 77406,
+    "year": "NV",
+    "name": "Piot Sévillano Tradition Brut",
+    "price_per_liter": 494.67,
+    "price": 371
+  },
+  {
+    "article_nr": 77483,
+    "year": "NV",
+    "name": "Piot Sévillano Tradition Extra Brut",
+    "price_per_liter": 510.67,
+    "price": 383
+  },
+  {
+    "article_nr": 81173,
+    "year": "NV",
+    "name": "Piper-Heidsieck Cuvée Rare",
+    "price_per_liter": 2130.67,
+    "price": 1598
+  },
+  {
+    "article_nr": 7332,
+    "year": "NV",
+    "name": "Piper-Heidsieck Brut",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 81914,
+    "year": "NV",
+    "name": "Piper-Heidsieck Rosé Sauvage",
+    "price_per_liter": 530.67,
+    "price": 398
+  },
+  {
+    "article_nr": 77332,
+    "year": "NV",
+    "name": "Piper-Heidsieck Brut",
+    "price_per_liter": 505.33,
+    "price": 758
+  },
+  {
+    "article_nr": 70318,
+    "year": "NV",
+    "name": "Pointillart Leroy Descendance Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77534,
+    "year": "NV",
+    "name": "Pol Couronne Brut",
+    "price_per_liter": 492,
+    "price": 369
+  },
+  {
+    "article_nr": 7549,
+    "year": "NV",
+    "name": "Pol Roger Brut Réserve",
+    "price_per_liter": 619.33,
+    "price": 929
+  },
+  {
+    "article_nr": 77165,
+    "year": 2012,
+    "name": "Pol Roger Vintage Brut",
+    "price_per_liter": 966.67,
+    "price": 1450
+  },
+  {
+    "article_nr": 77069,
+    "year": "NV",
+    "name": "Pol Roger Pure Brut Nature",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 77071,
+    "year": 2012,
+    "name": "Pol Roger Brut Rosé",
+    "price_per_liter": 838.67,
+    "price": 629
+  },
+  {
+    "article_nr": 7549,
+    "year": "NV",
+    "name": "Pol Roger Brut Réserve",
+    "price_per_liter": 606.67,
+    "price": 455
+  },
+  {
+    "article_nr": 88285,
+    "year": 2012,
+    "name": "Pol Roger Blanc de Blancs",
+    "price_per_liter": 958.67,
+    "price": 719
+  },
+  {
+    "article_nr": 7536,
+    "year": 2012,
+    "name": "Pol Roger Brut Vintage",
+    "price_per_liter": 825.33,
+    "price": 619
+  },
+  {
+    "article_nr": 77613,
+    "year": "NV",
+    "name": "Pol Roger Rich Extra Cuvée de Réserve Demi Sec",
+    "price_per_liter": 606.67,
+    "price": 455
+  },
+  {
+    "article_nr": 77186,
+    "year": "NV",
+    "name": "Pommery Brut Royal",
+    "price_per_liter": 646,
+    "price": 969
+  },
+  {
+    "article_nr": 72322,
+    "year": "NV",
+    "name": "Pommery Brut Royal Rosé",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 95425,
+    "year": 2004,
+    "name": "Pommery Cuvée Louise Brut Nature",
+    "price_per_liter": 1598.67,
+    "price": 1199
+  },
+  {
+    "article_nr": 92254,
+    "year": 2008,
+    "name": "Pommery Grand Cru Royal Brut",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 7590,
+    "year": "NV",
+    "name": "Pommery Brut Royal",
+    "price_per_liter": 526.67,
+    "price": 395
+  },
+  {
+    "article_nr": 75319,
+    "year": "NV",
+    "name": "Pommery Apanage Blanc de Blancs",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77234,
+    "year": "NV",
+    "name": "Prestige",
+    "price_per_liter": 452,
+    "price": 339
+  },
+  {
+    "article_nr": 77801,
+    "year": "NV",
+    "name": "Prestige des Sacres Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77870,
+    "year": "NV",
+    "name": "Prestige des Sacres Brut Rosé",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77087,
+    "year": "NV",
+    "name": "Private Cuvée Extra Brut",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 77464,
+    "year": "NV",
+    "name": "R & L Legras Blanc de Blancs Grand Cru Brut",
+    "price_per_liter": 579.33,
+    "price": 869
+  },
+  {
+    "article_nr": 77464,
+    "year": "NV",
+    "name": "R & L Legras Grand Cru Blanc de Blancs Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 91152,
+    "year": 2008,
+    "name": "R & L Legras Saint-Vincent Grand Cru",
+    "price_per_liter": 1158.67,
+    "price": 869
+  },
+  {
+    "article_nr": 91152,
+    "year": 2008,
+    "name": "R & L Legras Saint-Vincent Grand Cru",
+    "price_per_liter": 1326,
+    "price": 1989
+  },
+  {
+    "article_nr": 88283,
+    "year": "NV",
+    "name": "R de Ruinart",
+    "price_per_liter": 686,
+    "price": 1029
+  },
+  {
+    "article_nr": 77501,
+    "year": 2008,
+    "name": "R Dumont Brut Millésimé",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 77693,
+    "year": "NV",
+    "name": "R Dumont Rosé Brut",
+    "price_per_liter": 466.67,
+    "price": 350
+  },
+  {
+    "article_nr": 78447,
+    "year": 2002,
+    "name": "R Dumont Blanc de Noirs Millésime",
+    "price_per_liter": 926.67,
+    "price": 695
+  },
+  {
+    "article_nr": 79747,
+    "year": "NV",
+    "name": "R.Dumont Intense Extra Brut",
+    "price_per_liter": 625.33,
+    "price": 469
+  },
+  {
+    "article_nr": 74072,
+    "year": 2015,
+    "name": "R.Dumont La Voie de Chanay",
+    "price_per_liter": 433.33,
+    "price": 325
+  },
+  {
+    "article_nr": 75195,
+    "year": "NV",
+    "name": "RC Lemaire Sélect Réserve Meunier",
+    "price_per_liter": 564,
+    "price": 423
+  },
+  {
+    "article_nr": 77254,
+    "year": "NV",
+    "name": "Regis Fliniaux Cuvée Prestige Grand Cru Brut",
+    "price_per_liter": 529.33,
+    "price": 397
+  },
+  {
+    "article_nr": 76557,
+    "year": "NV",
+    "name": "Régis Fliniaux Cuvée Supérieure Brut",
+    "price_per_liter": 396,
+    "price": 297
+  },
+  {
+    "article_nr": 77814,
+    "year": "NV",
+    "name": "Régis Fliniaux Rosé Brut",
+    "price_per_liter": 501.33,
+    "price": 376
+  },
+  {
+    "article_nr": 72366,
+    "year": "NV",
+    "name": "Régis Fliniaux Cuvée des Signataires Grand Cru Brut",
+    "price_per_liter": 874.67,
+    "price": 656
+  },
+  {
+    "article_nr": 79525,
+    "year": 2008,
+    "name": "Rémy Massin & Fils Millésime",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 78891,
+    "year": "NV",
+    "name": "Robert Barbichon Blanc de Blancs",
+    "price_per_liter": 501.33,
+    "price": 376
+  },
+  {
+    "article_nr": 78803,
+    "year": "NV",
+    "name": "Robert Barbichon Blanc de Noirs",
+    "price_per_liter": 501.33,
+    "price": 376
+  },
+  {
+    "article_nr": 90479,
+    "year": 2012,
+    "name": "Roland Champion Special Club Grand Cru",
+    "price_per_liter": 658.67,
+    "price": 494
+  },
+  {
+    "article_nr": 77942,
+    "year": "NV",
+    "name": "Rosé de Saignée Premier Cru",
+    "price_per_liter": 700,
+    "price": 525
+  },
+  {
+    "article_nr": 88291,
+    "year": "NV",
+    "name": "Ruinart Blanc de Blancs",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 82872,
+    "year": "NV",
+    "name": "Ruinart Rosé Brut",
+    "price_per_liter": 932,
+    "price": 699
+  },
+  {
+    "article_nr": 77443,
+    "year": "NV",
+    "name": "Ruinart R Brut",
+    "price_per_liter": 652,
+    "price": 489
+  },
+  {
+    "article_nr": 78168,
+    "year": "NV",
+    "name": "Rånäs Slott Blanc de Blancs Brut",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 73103,
+    "year": 2013,
+    "name": "Salmon Special Club",
+    "price_per_liter": 806.67,
+    "price": 605
+  },
+  {
+    "article_nr": 72746,
+    "year": "NV",
+    "name": "Salmon Meunier Rosé Brut",
+    "price_per_liter": 606.67,
+    "price": 455
+  },
+  {
+    "article_nr": 71349,
+    "year": "NV",
+    "name": "Salmon Pinot Meunier Blanc de Noirs Brut",
+    "price_per_liter": 558.67,
+    "price": 419
+  },
+  {
+    "article_nr": 76247,
+    "year": 2008,
+    "name": "Serge Gaudriller Cuvée Prestige Grand Cru Brut",
+    "price_per_liter": 661.33,
+    "price": 496
+  },
+  {
+    "article_nr": 76990,
+    "year": 2005,
+    "name": "Serge Gaudriller Cuvée Tristan Grand Cru Brut",
+    "price_per_liter": 656,
+    "price": 492
+  },
+  {
+    "article_nr": 77672,
+    "year": 2009,
+    "name": "Solsidan Zero Dosage Premier Cru",
+    "price_per_liter": 582.67,
+    "price": 437
+  },
+  {
+    "article_nr": 77685,
+    "year": 2008,
+    "name": "Soutiran Blanc de Blancs Brut",
+    "price_per_liter": 704,
+    "price": 528
+  },
+  {
+    "article_nr": 77190,
+    "year": "NV",
+    "name": "Soutiran Perle Noire Blanc de Noirs Grand Cru Brut",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 76744,
+    "year": 2012,
+    "name": "Soutiran Grand Cru Millésime",
+    "price_per_liter": 998.67,
+    "price": 749
+  },
+  {
+    "article_nr": 75809,
+    "year": 2002,
+    "name": "Special Club José Michel",
+    "price_per_liter": 865.33,
+    "price": 649
+  },
+  {
+    "article_nr": 95061,
+    "year": 2010,
+    "name": "Special Club Brut Launois Père et Fils",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 77425,
+    "year": "NV",
+    "name": "Sublime Grand Cru Rosé",
+    "price_per_liter": 552,
+    "price": 414
+  },
+  {
+    "article_nr": 73056,
+    "year": "NV",
+    "name": "Succulent Premier Cru Rosé Brut",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 77645,
+    "year": "NV",
+    "name": "Sur le Grand Marais Brut Nature",
+    "price_per_liter": 918.67,
+    "price": 689
+  },
+  {
+    "article_nr": 77304,
+    "year": "NV",
+    "name": "Sällskapets Champagne Premier Cru Brut Reserve",
+    "price_per_liter": 406.67,
+    "price": 305
+  },
+  {
+    "article_nr": 77029,
+    "year": "NV",
+    "name": "Taittinger Nocturne Rosé Special Edition",
+    "price_per_liter": 652,
+    "price": 489
+  },
+  {
+    "article_nr": 81232,
+    "year": "NV",
+    "name": "Taittinger Folies de la Marquetterie",
+    "price_per_liter": 878.67,
+    "price": 659
+  },
+  {
+    "article_nr": 74209,
+    "year": 2007,
+    "name": "Taittinger Comtes de Champagne Grands Crus Blanc de Blancs",
+    "price_per_liter": 2333.33,
+    "price": 3500
+  },
+  {
+    "article_nr": 77842,
+    "year": 2007,
+    "name": "Taittinger Comtes de Champagne Grands Crus Blanc de Blancs",
+    "price_per_liter": 2066.67,
+    "price": 1550
+  },
+  {
+    "article_nr": 77910,
+    "year": "NV",
+    "name": "Taittinger Prélude Grands Crus Brut",
+    "price_per_liter": 1200,
+    "price": 1800
+  },
+  {
+    "article_nr": 87037,
+    "year": 2012,
+    "name": "Taittinger Brut Millésimé",
+    "price_per_liter": 999.33,
+    "price": 1499
+  },
+  {
+    "article_nr": 7597,
+    "year": "NV",
+    "name": "Taittinger Nocturne",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 7422,
+    "year": "NV",
+    "name": "Taittinger Brut Réserve",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 88082,
+    "year": "NV",
+    "name": "Taittinger Prélude Brut",
+    "price_per_liter": 926.67,
+    "price": 695
+  },
+  {
+    "article_nr": 7871,
+    "year": 2013,
+    "name": "Taittinger Brut Millésimé",
+    "price_per_liter": 785.33,
+    "price": 589
+  },
+  {
+    "article_nr": 77735,
+    "year": 2006,
+    "name": "Taittinger Comtes de Champagne Rosé Brut",
+    "price_per_liter": 2665.33,
+    "price": 1999
+  },
+  {
+    "article_nr": 7898,
+    "year": "NV",
+    "name": "Taittinger Prestige Rosé Brut",
+    "price_per_liter": 785.33,
+    "price": 589
+  },
+  {
+    "article_nr": 87327,
+    "year": "NV",
+    "name": "Taittinger Brut Réserve",
+    "price_per_liter": 666,
+    "price": 999
+  },
+  {
+    "article_nr": 77359,
+    "year": "NV",
+    "name": "Taittinger Nocturne Rosé",
+    "price_per_liter": 798.67,
+    "price": 599
+  },
+  {
+    "article_nr": 71867,
+    "year": "NV",
+    "name": "The Per Gessle Selection Cuvée The Improver",
+    "price_per_liter": 865.33,
+    "price": 649
+  },
+  {
+    "article_nr": 99092,
+    "year": 2007,
+    "name": "Thienot Cuvée Stanislas Blanc de Blancs",
+    "price_per_liter": 892,
+    "price": 669
+  },
+  {
+    "article_nr": 71387,
+    "year": "NV",
+    "name": "Thiénot Brut Blanc de Blanc",
+    "price_per_liter": 638.67,
+    "price": 479
+  },
+  {
+    "article_nr": 93096,
+    "year": 2008,
+    "name": "Thiénot Cuvée Stanislas Blanc de Blancs",
+    "price_per_liter": 1012,
+    "price": 759
+  },
+  {
+    "article_nr": 77930,
+    "year": 2012,
+    "name": "Thiénot Brut Vintage",
+    "price_per_liter": 665.33,
+    "price": 499
+  },
+  {
+    "article_nr": 77545,
+    "year": "NV",
+    "name": "Thiénot Brut",
+    "price_per_liter": 518.67,
+    "price": 389
+  },
+  {
+    "article_nr": 77882,
+    "year": "NV",
+    "name": "Tribaut Cuvée René Brut",
+    "price_per_liter": 566.67,
+    "price": 425
+  },
+  {
+    "article_nr": 77650,
+    "year": "NV",
+    "name": "Tribaut Blanc de Chardonnay Brut",
+    "price_per_liter": 425.33,
+    "price": 319
+  },
+  {
+    "article_nr": 70600,
+    "year": "NV",
+    "name": "Triptyque Premier Cru Brut Nature",
+    "price_per_liter": 958.67,
+    "price": 719
+  },
+  {
+    "article_nr": 7877,
+    "year": "NV",
+    "name": "Tsarine Brut Rosé",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 76452,
+    "year": "NV",
+    "name": "Valentin Leflaive Extra Brut Blanc de Blancs",
+    "price_per_liter": 825.33,
+    "price": 619
+  },
+  {
+    "article_nr": 76296,
+    "year": "NV",
+    "name": "Vazart Coquart Brut Reserve Blanc de Blanc",
+    "price_per_liter": 504,
+    "price": 378
+  },
+  {
+    "article_nr": 82169,
+    "year": "NV",
+    "name": "Veuve Clicquot Rosé",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 82547,
+    "year": 2006,
+    "name": "Veuve Clicquot La Grande Dame Rosé",
+    "price_per_liter": 3332,
+    "price": 2499
+  },
+  {
+    "article_nr": 74996,
+    "year": "NV",
+    "name": "Veuve Clicquot Brut",
+    "price_per_liter": 659.33,
+    "price": 989
+  },
+  {
+    "article_nr": 7421,
+    "year": "NV",
+    "name": "Veuve Clicquot Sec Gula Änkan",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 7421,
+    "year": "NV",
+    "name": "Veuve Clicquot Sec Gula Änkan",
+    "price_per_liter": 659.33,
+    "price": 989
+  },
+  {
+    "article_nr": 7424,
+    "year": "NV",
+    "name": "Veuve Clicquot Brut Gula Änkan",
+    "price_per_liter": 598.67,
+    "price": 449
+  },
+  {
+    "article_nr": 76531,
+    "year": "NV",
+    "name": "Veuve Clicquot Rich",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 92606,
+    "year": 2011,
+    "name": "Vilmart & Cie Coeur de Cuvée 1:er Cru",
+    "price_per_liter": 1261.33,
+    "price": 946
+  },
+  {
+    "article_nr": 90116,
+    "year": 2014,
+    "name": "Vincent Joudart Brut Millésime",
+    "price_per_liter": 528,
+    "price": 396
+  },
+  {
+    "article_nr": 97048,
+    "year": 2014,
+    "name": "Vincent Joudart Special Club",
+    "price_per_liter": 585.33,
+    "price": 439
+  },
+  {
+    "article_nr": 77327,
+    "year": "NV",
+    "name": "Voirin-Jumel Brut Tradition",
+    "price_per_liter": 446.67,
+    "price": 335
+  },
+  {
+    "article_nr": 78197,
+    "year": "NV",
+    "name": "Voirin-Jumel Brut Zéro",
+    "price_per_liter": 506.67,
+    "price": 380
+  },
+  {
+    "article_nr": 71138,
+    "year": "NV",
+    "name": "Vollereaux Rosé de Saignée Brut",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 77811,
+    "year": "NV",
+    "name": "Vollereaux Blanc de Blancs Brut",
+    "price_per_liter": 398.67,
+    "price": 299
+  },
+  {
+    "article_nr": 77858,
+    "year": "NV",
+    "name": "Vollereaux Grande Réserve Brut",
+    "price_per_liter": 586,
+    "price": 879
+  },
+  {
+    "article_nr": 79373,
+    "year": "NV",
+    "name": "Vollereaux Brut Réserve",
+    "price_per_liter": 385.33,
+    "price": 289
+  },
+  {
+    "article_nr": 77390,
+    "year": 2013,
+    "name": "Vve Fourny & Fils Millésimé Brut Blanc de Blanc Premier Cru",
+    "price_per_liter": 705.33,
+    "price": 529
+  },
+  {
+    "article_nr": 77391,
+    "year": 2009,
+    "name": "Vve Fourny & Fils Cuvée du Clos Notre Dame Extra Brut Premier Cru",
+    "price_per_liter": 1465.33,
+    "price": 1099
+  },
+  {
+    "article_nr": 2739,
+    "year": "NV",
+    "name": "Vve Fourny & Fils Blanc de Blancs Brut Premier Cru",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 76480,
+    "year": "NV",
+    "name": "Vve Fourny & Fils Blanc de Blancs Brut Premier Cru",
+    "price_per_liter": 466,
+    "price": 699
+  },
+  {
+    "article_nr": 77510,
+    "year": "NV",
+    "name": "Vve Fourny & Fils Brut Rosé",
+    "price_per_liter": 505.33,
+    "price": 379
+  },
+  {
+    "article_nr": 77899,
+    "year": "NV",
+    "name": "Vve Fourny & Fils Premier Cru Vertus Brut Nature Blanc de Blancs",
+    "price_per_liter": 465.33,
+    "price": 349
+  },
+  {
+    "article_nr": 74389,
+    "year": "NV",
+    "name": "Vve Fourny Grande Réserve Premier Cru",
+    "price_per_liter": 438.67,
+    "price": 329
+  },
+  {
+    "article_nr": 74767,
+    "year": "NV",
+    "name": "Waris Hubert Albescent Blanc de Blancs Grand Cru",
+    "price_per_liter": 532,
+    "price": 399
+  },
+  {
+    "article_nr": 71925,
+    "year": "NV",
+    "name": "Waris Larmandier Racines de Trois",
+    "price_per_liter": 544,
+    "price": 408
+  },
+  {
+    "article_nr": 72838,
+    "year": "NV",
+    "name": "Xavier Loriot 100S Zero Dosage Extra Brut",
+    "price_per_liter": 652,
+    "price": 489
+  },
+  {
+    "article_nr": 71322,
+    "year": "NV",
+    "name": "Xavier Loriot 100S Sans Sulfites ajoutes",
+    "price_per_liter": 756,
+    "price": 567
+  },
+  {
+    "article_nr": 77360,
+    "year": "NV",
+    "name": "Örebro 755 År Prévoteau-Perrier",
+    "price_per_liter": 460,
+    "price": 345
+  },
+  {
+    "article_nr": 77919,
+    "year": 2016,
+    "name": "Örebro 755 År Prévoteau-Perrier Brut Rosé",
+    "price_per_liter": 493.33,
+    "price": 370
+  }
+]
